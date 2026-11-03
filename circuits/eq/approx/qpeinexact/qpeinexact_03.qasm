@@ -1,0 +1,12 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+qreg q[2];
+qreg psi[1];
+h q[0];
+h q[1];
+x psi[0];
+cp(3*pi/4) psi[0],q[0];
+cp(-pi/2) psi[0],q[1];
+h q[1];
+cp(-pi/2) q[0],q[1];
+h q[0];
