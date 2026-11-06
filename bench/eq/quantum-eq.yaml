@@ -1,0 +1,24 @@
+# $1 = original circuit, $2 = circuit to compare with
+
+sliqec:
+  cmd: ../bin/eq/sliqec-eq-wrap.sh $1 $2
+
+feynman:
+  cmd: ../bin/eq/feynman-eq-wrap.sh $1 $2
+
+autoq:
+  cmd: ../bin/eq/autoq-eq-wrap.sh $1 $2
+
+qcec:
+  cmd: ../bin/eq/qcec-eq-wrap.sh $1 $2
+
+# QCEC's checkers in parallel (one thread per core); run_eq_bench.sh forces -j 1 for it
+qcec-parallel:
+  cmd: ../bin/eq/qcec-eq-wrap.sh -p $1 $2
+
+quokka:
+  cmd: ../bin/eq/quokka-eq-wrap.sh $1 $2
+
+# Quokka# in the Pauli basis with the linear check (2n model counts)
+quokka-pauli:
+  cmd: ../bin/eq/quokka-eq-wrap.sh --pauli $1 $2
