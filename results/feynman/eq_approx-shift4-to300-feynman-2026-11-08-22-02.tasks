@@ -1,0 +1,230 @@
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_04.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_04.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_06.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_06.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_08.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_08.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_10.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_10.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_12.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_12.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_14.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_14.qasm
+execute;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_16.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_16.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_03.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_03.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_04.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_04.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_05.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_05.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_06.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_06.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_07.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_07.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_08.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_08.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_09.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_09.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_10.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_10.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_11.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_11.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_12.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_12.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_13.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_13.qasm
+execute;feynman;../circuits/eq/approx/qaoa/qaoa_14.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_14.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_03.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_03.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_04.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_04.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_05.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_05.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_06.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_06.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_07.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_07.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_08.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_08.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_09.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_09.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_10.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_10.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_11.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_11.qasm
+execute;feynman;../circuits/eq/approx/qftentangled/qftentangled_12.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_12.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_03.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_03.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_04.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_04.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_05.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_05.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_06.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_06.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_07.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_07.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_08.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_08.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_09.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_09.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_10.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_10.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_11.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_11.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_12.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_12.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_13.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_13.qasm
+execute;feynman;../circuits/eq/approx/qft/qft_14.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_14.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_03.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_03.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_04.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_04.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_05.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_05.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_06.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_06.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_07.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_07.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_08.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_08.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_09.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_09.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_10.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_10.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_11.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_11.qasm
+execute;feynman;../circuits/eq/approx/qnn/qnn_12.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_12.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_03.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_03.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_04.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_04.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_05.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_05.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_06.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_06.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_07.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_07.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_08.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_08.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_09.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_09.qasm
+execute;feynman;../circuits/eq/approx/qpeexact/qpeexact_10.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_10.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_03.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_03.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_04.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_04.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_05.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_05.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_06.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_06.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_07.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_07.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_08.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_08.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_09.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_09.qasm
+execute;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_10.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_10.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_03.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_03.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_04.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_04.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_05.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_05.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_06.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_06.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_07.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_07.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_08.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_08.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_09.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_09.qasm
+execute;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_10.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_10.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_03.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_04.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_05.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_06.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_07.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_08.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_09.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_10.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_11.qasm
+execute;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_12.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_03.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_04.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_05.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_06.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_07.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_08.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_09.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_10.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_11.qasm
+execute;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_12.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_03.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_04.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_05.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_06.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_07.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_08.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_09.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_10.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_11.qasm
+execute;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_12.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_03.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_03.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_04.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_04.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_05.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_05.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_06.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_06.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_07.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_07.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_08.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_08.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_09.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_09.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_10.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_10.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_11.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_11.qasm
+execute;feynman;../circuits/eq/approx/wstate/wstate_12.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_12.qasm
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_08.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_08.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_10.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_10.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_06.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_06.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_04.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_04.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.04###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_12.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_12.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_14.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_14.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_16.qasm;../circuits/eq/approx_opt_shift1e-4/bmw_quark_copula/bmw_quark_copula_16.qasm;"unsupported gate: u3(1.304903297657757,-2.648708903009474,1.2943469151946534) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_04.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_04.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_03.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_03.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_05.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_05.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_06.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_06.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_08.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_08.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_07.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_07.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_09.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_09.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_10.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_10.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_11.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_11.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_12.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_12.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_13.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_13.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qaoa/qaoa_14.qasm;../circuits/eq/approx_opt_shift1e-4/qaoa/qaoa_14.qasm;"unsupported gate: rzz(10.410545461930019) q[0],q[1];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_04.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_04.qasm;"unsupported gate: cp(pi/2) q[3],q[2];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_03.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_03.qasm;"unsupported gate: cp(pi/2) q[2],q[1];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_05.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_05.qasm;"unsupported gate: cp(pi/2) q[4],q[3];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_06.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_06.qasm;"unsupported gate: cp(pi/2) q[5],q[4];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_07.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_07.qasm;"unsupported gate: cp(pi/2) q[6],q[5];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_08.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_08.qasm;"unsupported gate: cp(pi/2) q[7],q[6];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_09.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_09.qasm;"unsupported gate: cp(pi/2) q[8],q[7];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_10.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_10.qasm;"unsupported gate: cp(pi/2) q[9],q[8];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_11.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_11.qasm;"unsupported gate: cp(pi/2) q[10],q[9];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qftentangled/qftentangled_12.qasm;../circuits/eq/approx_opt_shift1e-4/qftentangled/qftentangled_12.qasm;"unsupported gate: cp(pi/2) q[11],q[10];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_03.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_03.qasm;"unsupported gate: cp(pi/2) q[2],q[1];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qft/qft_04.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_04.qasm;"unsupported gate: cp(pi/2) q[3],q[2];###real 0.02###user 0.00###sys 0.01"
+error;feynman;../circuits/eq/approx/qft/qft_05.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_05.qasm;"unsupported gate: cp(pi/2) q[4],q[3];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qft/qft_06.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_06.qasm;"unsupported gate: cp(pi/2) q[5],q[4];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_07.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_07.qasm;"unsupported gate: cp(pi/2) q[6],q[5];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_08.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_08.qasm;"unsupported gate: cp(pi/2) q[7],q[6];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_09.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_09.qasm;"unsupported gate: cp(pi/2) q[8],q[7];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_10.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_10.qasm;"unsupported gate: cp(pi/2) q[9],q[8];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_11.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_11.qasm;"unsupported gate: cp(pi/2) q[10],q[9];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qft/qft_13.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_13.qasm;"unsupported gate: cp(pi/2) q[12],q[11];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qft/qft_12.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_12.qasm;"unsupported gate: cp(pi/2) q[11],q[10];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qft/qft_14.qasm;../circuits/eq/approx_opt_shift1e-4/qft/qft_14.qasm;"unsupported gate: cp(pi/2) q[13],q[12];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_03.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_03.qasm;"unsupported gate: u3(1.2860393057120918,0.48438406717581817,-0.7741602897537887) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_04.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_04.qasm;"unsupported gate: u3(2.5429276893114836,2.225805777507275,1.6924590144688487) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_05.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_05.qasm;"unsupported gate: u3(1.2119870928383591,0.4975888275651288,-0.815879265788884) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_06.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_06.qasm;"unsupported gate: u3(1.6330941616962555,2.677311999314325,2.483022826496441) q[0];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_07.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_07.qasm;"unsupported gate: u3(0.802273308663355,2.470774999403427,3.018262368843615) q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_08.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_08.qasm;"unsupported gate: u3(2.6549384957400464,1.2717224147504629,0.6077723121342502) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qnn/qnn_09.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_09.qasm;"unsupported gate: u3(0.46513513127487965,1.4854526529717225,-2.1027681837505714) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qnn/qnn_10.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_10.qasm;"unsupported gate: u3(0.884855577637727,2.5258852330273633,2.9354624744748357) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qnn/qnn_11.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_11.qasm;"unsupported gate: u3(2.3218438986723213,0.6578170440795814,-0.14220449559579373) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_03.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_03.qasm;"unsupported gate: cp(pi) psi[0],q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qnn/qnn_12.qasm;../circuits/eq/approx_opt_shift1e-4/qnn/qnn_12.qasm;"unsupported gate: u3(2.2523731150497266,2.528394360540526,2.0968910327918158) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_04.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_04.qasm;"unsupported gate: cp(-pi/2) q[1],q[2];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_05.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_05.qasm;"unsupported gate: cp(-7*pi/8) psi[0],q[0];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_06.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_06.qasm;"unsupported gate: cp(-7*pi/8) psi[0],q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_07.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_07.qasm;"unsupported gate: cp(-pi/2) q[4],q[5];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_08.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_08.qasm;"unsupported gate: cp(-55*pi/64) psi[0],q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_09.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_09.qasm;"unsupported gate: cp(-55*pi/64) psi[0],q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeexact/qpeexact_10.qasm;../circuits/eq/approx_opt_shift1e-4/qpeexact/qpeexact_10.qasm;"unsupported gate: cp(-pi/2) q[7],q[8];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_03.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_03.qasm;"unsupported gate: cp(3*pi/4) psi[0],q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_04.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_04.qasm;"unsupported gate: cp(-7*pi/8) psi[0],q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_05.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_05.qasm;"unsupported gate: cp(pi/16) psi[0],q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_06.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_06.qasm;"unsupported gate: cp(27*pi/32) psi[0],q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_08.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_08.qasm;"unsupported gate: cp(2.675262494072558) psi[0],q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_07.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_07.qasm;"unsupported gate: cp(-55*pi/64) psi[0],q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_09.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_09.qasm;"unsupported gate: cp(2.6875343403756435) psi[0],q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/qpeinexact/qpeinexact_10.qasm;../circuits/eq/approx_opt_shift1e-4/qpeinexact/qpeinexact_10.qasm;"unsupported gate: cp(-2.693670263527186) psi[0],q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_03.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_03.qasm;"unsupported gate: u(0,0,pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_04.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_04.qasm;"unsupported gate: u(0,0,-pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_05.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_05.qasm;"unsupported gate: u(0,0,pi/4) q[1];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_06.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_06.qasm;"unsupported gate: ry(1.0625347409922794) q[1];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_07.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_07.qasm;"unsupported gate: u(0,0,-pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_08.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_08.qasm;"unsupported gate: u(0,0,pi/4) q[1];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_10.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_10.qasm;"unsupported gate: u(0,0,-pi/4) q[1];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/randomcircuit/randomcircuit_09.qasm;../circuits/eq/approx_opt_shift1e-4/randomcircuit/randomcircuit_09.qasm;"unsupported gate: u(0,0,pi/4) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_03.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_04.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_05.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_06.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_07.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_08.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_09.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_10.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_11.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_real_amp/vqe_real_amp_12.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_03.qasm;"unsupported gate: u3(0.2764494116002434,-2.2036254112162688,-pi) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_04.qasm;"unsupported gate: u3(0.2764494116002434,0.08045377785829455,-pi) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_05.qasm;"unsupported gate: u3(0.2764494116002434,-2.287584594650479,-pi) q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_06.qasm;"unsupported gate: u3(0.2764494116002434,1.1877512322817543,-pi) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_07.qasm;"unsupported gate: u3(0.2764494116002434,2.1472642801609707,-pi) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_08.qasm;"unsupported gate: u3(0.2764494116002434,-0.46804077302212743,-pi) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_09.qasm;"unsupported gate: u3(0.2764494116002434,2.87095075136648,-pi) q[0];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_10.qasm;"unsupported gate: u3(0.2764494116002434,2.044126937338996,-pi) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_11.qasm;"unsupported gate: u3(0.2764494116002434,-1.0165231716052343,-pi) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_su2/vqe_su2_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_su2/vqe_su2_12.qasm;"unsupported gate: u3(0.2764494116002434,0.4760175617088418,-pi) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_03.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_03.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_04.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_04.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_05.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_05.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_06.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_06.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.03###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_08.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_08.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_07.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_07.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_09.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_09.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_10.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_10.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_11.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_11.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/vqe_two_local/vqe_two_local_12.qasm;../circuits/eq/approx_opt_shift1e-4/vqe_two_local/vqe_two_local_12.qasm;"unsupported gate: ry(6.006735895579343) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_03.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_03.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/wstate/wstate_04.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_04.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_06.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_06.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_05.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_05.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.03###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_08.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_08.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_07.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_07.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.03###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_09.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_09.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_10.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_10.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.02###sys 0.00"
+error;feynman;../circuits/eq/approx/wstate/wstate_11.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_11.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.01"
+error;feynman;../circuits/eq/approx/wstate/wstate_12.qasm;../circuits/eq/approx_opt_shift1e-4/wstate/wstate_12.qasm;"unsupported gate: ry(-pi/4) q[0];###real 0.02###user 0.01###sys 0.01"

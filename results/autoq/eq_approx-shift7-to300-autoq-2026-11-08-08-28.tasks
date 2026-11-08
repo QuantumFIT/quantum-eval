@@ -1,0 +1,230 @@
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_04.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_04.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_06.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_06.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_08.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_08.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_10.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_10.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_12.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_12.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_14.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_14.qasm
+execute;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_16.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_16.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_03.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_03.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_04.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_04.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_05.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_05.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_06.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_06.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_07.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_07.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_08.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_08.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_09.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_09.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_10.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_10.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_11.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_11.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_12.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_12.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_13.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_13.qasm
+execute;autoq;../circuits/eq/approx/qaoa/qaoa_14.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_14.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_03.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_03.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_04.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_04.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_05.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_05.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_06.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_06.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_07.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_07.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_08.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_08.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_09.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_09.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_10.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_10.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_11.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_11.qasm
+execute;autoq;../circuits/eq/approx/qftentangled/qftentangled_12.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_12.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_03.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_03.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_04.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_04.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_05.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_05.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_06.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_06.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_07.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_07.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_08.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_08.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_09.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_09.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_10.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_10.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_11.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_11.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_12.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_12.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_13.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_13.qasm
+execute;autoq;../circuits/eq/approx/qft/qft_14.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_14.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_03.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_03.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_04.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_04.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_05.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_05.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_06.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_06.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_07.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_07.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_08.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_08.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_09.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_09.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_10.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_10.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_11.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_11.qasm
+execute;autoq;../circuits/eq/approx/qnn/qnn_12.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_12.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_03.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_03.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_04.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_04.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_05.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_05.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_06.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_06.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_07.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_07.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_08.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_08.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_09.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_09.qasm
+execute;autoq;../circuits/eq/approx/qpeexact/qpeexact_10.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_10.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_03.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_03.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_04.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_04.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_05.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_05.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_06.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_06.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_07.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_07.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_08.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_08.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_09.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_09.qasm
+execute;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_10.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_10.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_03.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_03.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_04.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_04.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_05.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_05.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_06.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_06.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_07.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_07.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_08.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_08.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_09.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_09.qasm
+execute;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_10.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_10.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_03.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_04.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_05.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_06.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_07.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_08.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_09.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_10.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_11.qasm
+execute;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_12.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_03.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_04.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_05.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_06.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_07.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_08.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_09.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_10.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_11.qasm
+execute;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_12.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_03.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_04.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_05.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_06.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_07.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_08.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_09.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_10.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_11.qasm
+execute;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_12.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_03.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_03.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_04.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_04.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_05.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_05.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_06.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_06.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_07.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_07.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_08.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_08.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_09.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_09.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_10.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_10.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_11.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_11.qasm
+execute;autoq;../circuits/eq/approx/wstate/wstate_12.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_12.qasm
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_06.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_06.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_04.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_04.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_08.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_08.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_10.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_10.qasm;real 0.04###user 0.03###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_03.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_03.qasm;real 0.03###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_04.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_04.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_12.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_12.qasm;real 0.08###user 0.06###sys 0.01
+error;autoq;../circuits/eq/approx/qaoa/qaoa_05.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_06.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_06.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_07.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_08.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_09.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_10.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_10.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_11.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_11.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_12.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_12.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_13.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_13.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qaoa/qaoa_14.qasm;../circuits/eq/approx_opt_shift1e-7/qaoa/qaoa_14.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_03.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_04.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_04.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_05.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_06.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_06.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_14.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_14.qasm;real 0.23###user 0.20###sys 0.02
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_07.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_07.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_08.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_08.qasm;real 0.01###user 0.00###sys 0.01
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_09.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_09.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_10.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_10.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_11.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_11.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qftentangled/qftentangled_12.qasm;../circuits/eq/approx_opt_shift1e-7/qftentangled/qftentangled_12.qasm;real 0.02###user 0.02###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_03.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_03.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_04.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_04.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_05.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_06.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_06.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_07.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_08.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_08.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_09.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_09.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_10.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_10.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_11.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_11.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_12.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_12.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_13.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_13.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qft/qft_14.qasm;../circuits/eq/approx_opt_shift1e-7/qft/qft_14.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_03.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_04.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_04.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_05.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_07.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_06.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_06.qasm;real 0.02###user 0.00###sys 0.01
+error;autoq;../circuits/eq/approx/qnn/qnn_08.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_09.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_09.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_10.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_10.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_11.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_11.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qnn/qnn_12.qasm;../circuits/eq/approx_opt_shift1e-7/qnn/qnn_12.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_03.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_04.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_04.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_05.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_06.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_06.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_08.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_07.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_07.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_09.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_03.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/qpeexact/qpeexact_10.qasm;../circuits/eq/approx_opt_shift1e-7/qpeexact/qpeexact_10.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_04.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_04.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_05.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_06.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_06.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_07.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_07.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_08.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_09.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/qpeinexact/qpeinexact_10.qasm;../circuits/eq/approx_opt_shift1e-7/qpeinexact/qpeinexact_10.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_03.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_04.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_04.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_05.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_06.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_06.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_07.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_07.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_08.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_08.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_09.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/randomcircuit/randomcircuit_10.qasm;../circuits/eq/approx_opt_shift1e-7/randomcircuit/randomcircuit_10.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_04.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_06.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_07.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_08.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_10.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_12.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_real_amp/vqe_real_amp_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_real_amp/vqe_real_amp_11.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_04.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_05.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_06.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_10.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_11.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_su2/vqe_su2_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_su2/vqe_su2_12.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_03.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_03.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_04.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_04.qasm;real 0.02###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_05.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_05.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_06.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_06.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_07.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_08.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_09.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_09.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_10.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_10.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_11.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_11.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/vqe_two_local/vqe_two_local_12.qasm;../circuits/eq/approx_opt_shift1e-7/vqe_two_local/vqe_two_local_12.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_03.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_03.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_04.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_04.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_06.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_06.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_05.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_05.qasm;real 0.02###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_07.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_07.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_08.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_08.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_09.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_09.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_10.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_10.qasm;real 0.01###user 0.00###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_11.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_11.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/wstate/wstate_12.qasm;../circuits/eq/approx_opt_shift1e-7/wstate/wstate_12.qasm;real 0.01###user 0.01###sys 0.00
+error;autoq;../circuits/eq/approx/bmw_quark_copula/bmw_quark_copula_16.qasm;../circuits/eq/approx_opt_shift1e-7/bmw_quark_copula/bmw_quark_copula_16.qasm;real 0.96###user 0.93###sys 0.03

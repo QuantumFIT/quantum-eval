@@ -1,0 +1,768 @@
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/01.qasm;../circuits/eq/exact_opt/BernsteinVazirani/01.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/02.qasm;../circuits/eq/exact_opt/BernsteinVazirani/02.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/03.qasm;../circuits/eq/exact_opt/BernsteinVazirani/03.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/04.qasm;../circuits/eq/exact_opt/BernsteinVazirani/04.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/05.qasm;../circuits/eq/exact_opt/BernsteinVazirani/05.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/06.qasm;../circuits/eq/exact_opt/BernsteinVazirani/06.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/07.qasm;../circuits/eq/exact_opt/BernsteinVazirani/07.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/08.qasm;../circuits/eq/exact_opt/BernsteinVazirani/08.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/09.qasm;../circuits/eq/exact_opt/BernsteinVazirani/09.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/10.qasm;../circuits/eq/exact_opt/BernsteinVazirani/10.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/11.qasm;../circuits/eq/exact_opt/BernsteinVazirani/11.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/12.qasm;../circuits/eq/exact_opt/BernsteinVazirani/12.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/13.qasm;../circuits/eq/exact_opt/BernsteinVazirani/13.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/14.qasm;../circuits/eq/exact_opt/BernsteinVazirani/14.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/15.qasm;../circuits/eq/exact_opt/BernsteinVazirani/15.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/16.qasm;../circuits/eq/exact_opt/BernsteinVazirani/16.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/17.qasm;../circuits/eq/exact_opt/BernsteinVazirani/17.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/18.qasm;../circuits/eq/exact_opt/BernsteinVazirani/18.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/19.qasm;../circuits/eq/exact_opt/BernsteinVazirani/19.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/20.qasm;../circuits/eq/exact_opt/BernsteinVazirani/20.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/21.qasm;../circuits/eq/exact_opt/BernsteinVazirani/21.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/22.qasm;../circuits/eq/exact_opt/BernsteinVazirani/22.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/23.qasm;../circuits/eq/exact_opt/BernsteinVazirani/23.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/24.qasm;../circuits/eq/exact_opt/BernsteinVazirani/24.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/25.qasm;../circuits/eq/exact_opt/BernsteinVazirani/25.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/26.qasm;../circuits/eq/exact_opt/BernsteinVazirani/26.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/27.qasm;../circuits/eq/exact_opt/BernsteinVazirani/27.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/28.qasm;../circuits/eq/exact_opt/BernsteinVazirani/28.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/29.qasm;../circuits/eq/exact_opt/BernsteinVazirani/29.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/30.qasm;../circuits/eq/exact_opt/BernsteinVazirani/30.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/31.qasm;../circuits/eq/exact_opt/BernsteinVazirani/31.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/32.qasm;../circuits/eq/exact_opt/BernsteinVazirani/32.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/33.qasm;../circuits/eq/exact_opt/BernsteinVazirani/33.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/34.qasm;../circuits/eq/exact_opt/BernsteinVazirani/34.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/35.qasm;../circuits/eq/exact_opt/BernsteinVazirani/35.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/36.qasm;../circuits/eq/exact_opt/BernsteinVazirani/36.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/37.qasm;../circuits/eq/exact_opt/BernsteinVazirani/37.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/38.qasm;../circuits/eq/exact_opt/BernsteinVazirani/38.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/39.qasm;../circuits/eq/exact_opt/BernsteinVazirani/39.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/40.qasm;../circuits/eq/exact_opt/BernsteinVazirani/40.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/41.qasm;../circuits/eq/exact_opt/BernsteinVazirani/41.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/42.qasm;../circuits/eq/exact_opt/BernsteinVazirani/42.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/43.qasm;../circuits/eq/exact_opt/BernsteinVazirani/43.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/44.qasm;../circuits/eq/exact_opt/BernsteinVazirani/44.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/45.qasm;../circuits/eq/exact_opt/BernsteinVazirani/45.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/46.qasm;../circuits/eq/exact_opt/BernsteinVazirani/46.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/47.qasm;../circuits/eq/exact_opt/BernsteinVazirani/47.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/48.qasm;../circuits/eq/exact_opt/BernsteinVazirani/48.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/49.qasm;../circuits/eq/exact_opt/BernsteinVazirani/49.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/50.qasm;../circuits/eq/exact_opt/BernsteinVazirani/50.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/51.qasm;../circuits/eq/exact_opt/BernsteinVazirani/51.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/52.qasm;../circuits/eq/exact_opt/BernsteinVazirani/52.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/53.qasm;../circuits/eq/exact_opt/BernsteinVazirani/53.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/54.qasm;../circuits/eq/exact_opt/BernsteinVazirani/54.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/55.qasm;../circuits/eq/exact_opt/BernsteinVazirani/55.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/56.qasm;../circuits/eq/exact_opt/BernsteinVazirani/56.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/57.qasm;../circuits/eq/exact_opt/BernsteinVazirani/57.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/58.qasm;../circuits/eq/exact_opt/BernsteinVazirani/58.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/59.qasm;../circuits/eq/exact_opt/BernsteinVazirani/59.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/60.qasm;../circuits/eq/exact_opt/BernsteinVazirani/60.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/61.qasm;../circuits/eq/exact_opt/BernsteinVazirani/61.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/62.qasm;../circuits/eq/exact_opt/BernsteinVazirani/62.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/63.qasm;../circuits/eq/exact_opt/BernsteinVazirani/63.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/64.qasm;../circuits/eq/exact_opt/BernsteinVazirani/64.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/65.qasm;../circuits/eq/exact_opt/BernsteinVazirani/65.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/66.qasm;../circuits/eq/exact_opt/BernsteinVazirani/66.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/67.qasm;../circuits/eq/exact_opt/BernsteinVazirani/67.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/68.qasm;../circuits/eq/exact_opt/BernsteinVazirani/68.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/69.qasm;../circuits/eq/exact_opt/BernsteinVazirani/69.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/70.qasm;../circuits/eq/exact_opt/BernsteinVazirani/70.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/71.qasm;../circuits/eq/exact_opt/BernsteinVazirani/71.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/72.qasm;../circuits/eq/exact_opt/BernsteinVazirani/72.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/73.qasm;../circuits/eq/exact_opt/BernsteinVazirani/73.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/74.qasm;../circuits/eq/exact_opt/BernsteinVazirani/74.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/75.qasm;../circuits/eq/exact_opt/BernsteinVazirani/75.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/76.qasm;../circuits/eq/exact_opt/BernsteinVazirani/76.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/77.qasm;../circuits/eq/exact_opt/BernsteinVazirani/77.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/78.qasm;../circuits/eq/exact_opt/BernsteinVazirani/78.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/79.qasm;../circuits/eq/exact_opt/BernsteinVazirani/79.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/80.qasm;../circuits/eq/exact_opt/BernsteinVazirani/80.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/81.qasm;../circuits/eq/exact_opt/BernsteinVazirani/81.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/82.qasm;../circuits/eq/exact_opt/BernsteinVazirani/82.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/83.qasm;../circuits/eq/exact_opt/BernsteinVazirani/83.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/84.qasm;../circuits/eq/exact_opt/BernsteinVazirani/84.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/85.qasm;../circuits/eq/exact_opt/BernsteinVazirani/85.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/86.qasm;../circuits/eq/exact_opt/BernsteinVazirani/86.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/87.qasm;../circuits/eq/exact_opt/BernsteinVazirani/87.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/88.qasm;../circuits/eq/exact_opt/BernsteinVazirani/88.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/89.qasm;../circuits/eq/exact_opt/BernsteinVazirani/89.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/90.qasm;../circuits/eq/exact_opt/BernsteinVazirani/90.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/91.qasm;../circuits/eq/exact_opt/BernsteinVazirani/91.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/92.qasm;../circuits/eq/exact_opt/BernsteinVazirani/92.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/93.qasm;../circuits/eq/exact_opt/BernsteinVazirani/93.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/94.qasm;../circuits/eq/exact_opt/BernsteinVazirani/94.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/95.qasm;../circuits/eq/exact_opt/BernsteinVazirani/95.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/96.qasm;../circuits/eq/exact_opt/BernsteinVazirani/96.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/97.qasm;../circuits/eq/exact_opt/BernsteinVazirani/97.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/98.qasm;../circuits/eq/exact_opt/BernsteinVazirani/98.qasm
+execute;autoq;../circuits/eq/exact/BernsteinVazirani/99.qasm;../circuits/eq/exact_opt/BernsteinVazirani/99.qasm
+execute;autoq;../circuits/eq/exact/Feynman/adder_8.qasm;../circuits/eq/exact_opt/Feynman/adder_8.qasm
+execute;autoq;../circuits/eq/exact/Feynman/barenco_tof_10.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_10.qasm
+execute;autoq;../circuits/eq/exact/Feynman/barenco_tof_3.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_3.qasm
+execute;autoq;../circuits/eq/exact/Feynman/barenco_tof_4.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_4.qasm
+execute;autoq;../circuits/eq/exact/Feynman/barenco_tof_5.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_5.qasm
+execute;autoq;../circuits/eq/exact/Feynman/csla_mux_3.qasm;../circuits/eq/exact_opt/Feynman/csla_mux_3.qasm
+execute;autoq;../circuits/eq/exact/Feynman/csum_mux_9.qasm;../circuits/eq/exact_opt/Feynman/csum_mux_9.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^10_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^10_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^16_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^16_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^4_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^4_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^5_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^5_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^6_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^6_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^7_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^7_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^8_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^8_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/gf2^9_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^9_mult.qasm
+execute;autoq;../circuits/eq/exact/Feynman/grover_5.qasm;../circuits/eq/exact_opt/Feynman/grover_5.qasm
+execute;autoq;../circuits/eq/exact/Feynman/ham15-high.qasm;../circuits/eq/exact_opt/Feynman/ham15-high.qasm
+execute;autoq;../circuits/eq/exact/Feynman/ham15-low.qasm;../circuits/eq/exact_opt/Feynman/ham15-low.qasm
+execute;autoq;../circuits/eq/exact/Feynman/ham15-med.qasm;../circuits/eq/exact_opt/Feynman/ham15-med.qasm
+execute;autoq;../circuits/eq/exact/Feynman/hwb6.qasm;../circuits/eq/exact_opt/Feynman/hwb6.qasm
+execute;autoq;../circuits/eq/exact/Feynman/mod5_4.qasm;../circuits/eq/exact_opt/Feynman/mod5_4.qasm
+execute;autoq;../circuits/eq/exact/Feynman/mod_adder_1024.qasm;../circuits/eq/exact_opt/Feynman/mod_adder_1024.qasm
+execute;autoq;../circuits/eq/exact/Feynman/mod_mult_55.qasm;../circuits/eq/exact_opt/Feynman/mod_mult_55.qasm
+execute;autoq;../circuits/eq/exact/Feynman/mod_red_21.qasm;../circuits/eq/exact_opt/Feynman/mod_red_21.qasm
+execute;autoq;../circuits/eq/exact/Feynman/qcla_adder_10.qasm;../circuits/eq/exact_opt/Feynman/qcla_adder_10.qasm
+execute;autoq;../circuits/eq/exact/Feynman/qcla_com_7.qasm;../circuits/eq/exact_opt/Feynman/qcla_com_7.qasm
+execute;autoq;../circuits/eq/exact/Feynman/qcla_mod_7.qasm;../circuits/eq/exact_opt/Feynman/qcla_mod_7.qasm
+execute;autoq;../circuits/eq/exact/Feynman/qft_4.qasm;../circuits/eq/exact_opt/Feynman/qft_4.qasm
+execute;autoq;../circuits/eq/exact/Feynman/rc_adder_6.qasm;../circuits/eq/exact_opt/Feynman/rc_adder_6.qasm
+execute;autoq;../circuits/eq/exact/Feynman/tof_10.qasm;../circuits/eq/exact_opt/Feynman/tof_10.qasm
+execute;autoq;../circuits/eq/exact/Feynman/tof_3.qasm;../circuits/eq/exact_opt/Feynman/tof_3.qasm
+execute;autoq;../circuits/eq/exact/Feynman/tof_4.qasm;../circuits/eq/exact_opt/Feynman/tof_4.qasm
+execute;autoq;../circuits/eq/exact/Feynman/tof_5.qasm;../circuits/eq/exact_opt/Feynman/tof_5.qasm
+execute;autoq;../circuits/eq/exact/Feynman/vbe_adder_3.qasm;../circuits/eq/exact_opt/Feynman/vbe_adder_3.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/05.qasm;../circuits/eq/exact_opt/LP-Grover/05.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/06.qasm;../circuits/eq/exact_opt/LP-Grover/06.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/07.qasm;../circuits/eq/exact_opt/LP-Grover/07.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/08.qasm;../circuits/eq/exact_opt/LP-Grover/08.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/09.qasm;../circuits/eq/exact_opt/LP-Grover/09.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/10.qasm;../circuits/eq/exact_opt/LP-Grover/10.qasm
+execute;autoq;../circuits/eq/exact/LP-Grover/11.qasm;../circuits/eq/exact_opt/LP-Grover/11.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/03.qasm;../circuits/eq/exact_opt/MCToffoli/03.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/04.qasm;../circuits/eq/exact_opt/MCToffoli/04.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/05.qasm;../circuits/eq/exact_opt/MCToffoli/05.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/06.qasm;../circuits/eq/exact_opt/MCToffoli/06.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/07.qasm;../circuits/eq/exact_opt/MCToffoli/07.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/08.qasm;../circuits/eq/exact_opt/MCToffoli/08.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/09.qasm;../circuits/eq/exact_opt/MCToffoli/09.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/10.qasm;../circuits/eq/exact_opt/MCToffoli/10.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/11.qasm;../circuits/eq/exact_opt/MCToffoli/11.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/12.qasm;../circuits/eq/exact_opt/MCToffoli/12.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/13.qasm;../circuits/eq/exact_opt/MCToffoli/13.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/14.qasm;../circuits/eq/exact_opt/MCToffoli/14.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/15.qasm;../circuits/eq/exact_opt/MCToffoli/15.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/16.qasm;../circuits/eq/exact_opt/MCToffoli/16.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/17.qasm;../circuits/eq/exact_opt/MCToffoli/17.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/18.qasm;../circuits/eq/exact_opt/MCToffoli/18.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/19.qasm;../circuits/eq/exact_opt/MCToffoli/19.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/20.qasm;../circuits/eq/exact_opt/MCToffoli/20.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/21.qasm;../circuits/eq/exact_opt/MCToffoli/21.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/22.qasm;../circuits/eq/exact_opt/MCToffoli/22.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/23.qasm;../circuits/eq/exact_opt/MCToffoli/23.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/24.qasm;../circuits/eq/exact_opt/MCToffoli/24.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/25.qasm;../circuits/eq/exact_opt/MCToffoli/25.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/26.qasm;../circuits/eq/exact_opt/MCToffoli/26.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/27.qasm;../circuits/eq/exact_opt/MCToffoli/27.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/28.qasm;../circuits/eq/exact_opt/MCToffoli/28.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/29.qasm;../circuits/eq/exact_opt/MCToffoli/29.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/30.qasm;../circuits/eq/exact_opt/MCToffoli/30.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/31.qasm;../circuits/eq/exact_opt/MCToffoli/31.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/32.qasm;../circuits/eq/exact_opt/MCToffoli/32.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/33.qasm;../circuits/eq/exact_opt/MCToffoli/33.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/34.qasm;../circuits/eq/exact_opt/MCToffoli/34.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/35.qasm;../circuits/eq/exact_opt/MCToffoli/35.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/36.qasm;../circuits/eq/exact_opt/MCToffoli/36.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/37.qasm;../circuits/eq/exact_opt/MCToffoli/37.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/38.qasm;../circuits/eq/exact_opt/MCToffoli/38.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/39.qasm;../circuits/eq/exact_opt/MCToffoli/39.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/40.qasm;../circuits/eq/exact_opt/MCToffoli/40.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/41.qasm;../circuits/eq/exact_opt/MCToffoli/41.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/42.qasm;../circuits/eq/exact_opt/MCToffoli/42.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/43.qasm;../circuits/eq/exact_opt/MCToffoli/43.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/44.qasm;../circuits/eq/exact_opt/MCToffoli/44.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/45.qasm;../circuits/eq/exact_opt/MCToffoli/45.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/46.qasm;../circuits/eq/exact_opt/MCToffoli/46.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/47.qasm;../circuits/eq/exact_opt/MCToffoli/47.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/48.qasm;../circuits/eq/exact_opt/MCToffoli/48.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/49.qasm;../circuits/eq/exact_opt/MCToffoli/49.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/50.qasm;../circuits/eq/exact_opt/MCToffoli/50.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/51.qasm;../circuits/eq/exact_opt/MCToffoli/51.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/52.qasm;../circuits/eq/exact_opt/MCToffoli/52.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/53.qasm;../circuits/eq/exact_opt/MCToffoli/53.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/54.qasm;../circuits/eq/exact_opt/MCToffoli/54.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/55.qasm;../circuits/eq/exact_opt/MCToffoli/55.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/56.qasm;../circuits/eq/exact_opt/MCToffoli/56.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/57.qasm;../circuits/eq/exact_opt/MCToffoli/57.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/58.qasm;../circuits/eq/exact_opt/MCToffoli/58.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/59.qasm;../circuits/eq/exact_opt/MCToffoli/59.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/60.qasm;../circuits/eq/exact_opt/MCToffoli/60.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/61.qasm;../circuits/eq/exact_opt/MCToffoli/61.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/62.qasm;../circuits/eq/exact_opt/MCToffoli/62.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/63.qasm;../circuits/eq/exact_opt/MCToffoli/63.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/64.qasm;../circuits/eq/exact_opt/MCToffoli/64.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/65.qasm;../circuits/eq/exact_opt/MCToffoli/65.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/66.qasm;../circuits/eq/exact_opt/MCToffoli/66.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/67.qasm;../circuits/eq/exact_opt/MCToffoli/67.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/68.qasm;../circuits/eq/exact_opt/MCToffoli/68.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/69.qasm;../circuits/eq/exact_opt/MCToffoli/69.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/70.qasm;../circuits/eq/exact_opt/MCToffoli/70.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/71.qasm;../circuits/eq/exact_opt/MCToffoli/71.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/72.qasm;../circuits/eq/exact_opt/MCToffoli/72.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/73.qasm;../circuits/eq/exact_opt/MCToffoli/73.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/74.qasm;../circuits/eq/exact_opt/MCToffoli/74.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/75.qasm;../circuits/eq/exact_opt/MCToffoli/75.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/76.qasm;../circuits/eq/exact_opt/MCToffoli/76.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/77.qasm;../circuits/eq/exact_opt/MCToffoli/77.qasm
+execute;autoq;../circuits/eq/exact/MCToffoli/78.qasm;../circuits/eq/exact_opt/MCToffoli/78.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/03.qasm;../circuits/eq/exact_opt/MOGrover/03.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/04.qasm;../circuits/eq/exact_opt/MOGrover/04.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/05.qasm;../circuits/eq/exact_opt/MOGrover/05.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/06.qasm;../circuits/eq/exact_opt/MOGrover/06.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/07.qasm;../circuits/eq/exact_opt/MOGrover/07.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/08.qasm;../circuits/eq/exact_opt/MOGrover/08.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/09.qasm;../circuits/eq/exact_opt/MOGrover/09.qasm
+execute;autoq;../circuits/eq/exact/MOGrover/10.qasm;../circuits/eq/exact_opt/MOGrover/10.qasm
+execute;autoq;../circuits/eq/exact/Random/03.qasm;../circuits/eq/exact_opt/Random/03.qasm
+execute;autoq;../circuits/eq/exact/Random/04.qasm;../circuits/eq/exact_opt/Random/04.qasm
+execute;autoq;../circuits/eq/exact/Random/05.qasm;../circuits/eq/exact_opt/Random/05.qasm
+execute;autoq;../circuits/eq/exact/Random/06.qasm;../circuits/eq/exact_opt/Random/06.qasm
+execute;autoq;../circuits/eq/exact/Random/07.qasm;../circuits/eq/exact_opt/Random/07.qasm
+execute;autoq;../circuits/eq/exact/Random/08.qasm;../circuits/eq/exact_opt/Random/08.qasm
+execute;autoq;../circuits/eq/exact/Random/09.qasm;../circuits/eq/exact_opt/Random/09.qasm
+execute;autoq;../circuits/eq/exact/Random/10.qasm;../circuits/eq/exact_opt/Random/10.qasm
+execute;autoq;../circuits/eq/exact/Random/11.qasm;../circuits/eq/exact_opt/Random/11.qasm
+execute;autoq;../circuits/eq/exact/Random/12.qasm;../circuits/eq/exact_opt/Random/12.qasm
+execute;autoq;../circuits/eq/exact/Random/13.qasm;../circuits/eq/exact_opt/Random/13.qasm
+execute;autoq;../circuits/eq/exact/Random/14.qasm;../circuits/eq/exact_opt/Random/14.qasm
+execute;autoq;../circuits/eq/exact/Random/15.qasm;../circuits/eq/exact_opt/Random/15.qasm
+execute;autoq;../circuits/eq/exact/Random/16.qasm;../circuits/eq/exact_opt/Random/16.qasm
+execute;autoq;../circuits/eq/exact/Random/17.qasm;../circuits/eq/exact_opt/Random/17.qasm
+execute;autoq;../circuits/eq/exact/Random/18.qasm;../circuits/eq/exact_opt/Random/18.qasm
+execute;autoq;../circuits/eq/exact/Random/19.qasm;../circuits/eq/exact_opt/Random/19.qasm
+execute;autoq;../circuits/eq/exact/Random/20.qasm;../circuits/eq/exact_opt/Random/20.qasm
+execute;autoq;../circuits/eq/exact/Random/21.qasm;../circuits/eq/exact_opt/Random/21.qasm
+execute;autoq;../circuits/eq/exact/Random/22.qasm;../circuits/eq/exact_opt/Random/22.qasm
+execute;autoq;../circuits/eq/exact/Random/23.qasm;../circuits/eq/exact_opt/Random/23.qasm
+execute;autoq;../circuits/eq/exact/Random/24.qasm;../circuits/eq/exact_opt/Random/24.qasm
+execute;autoq;../circuits/eq/exact/Random/25.qasm;../circuits/eq/exact_opt/Random/25.qasm
+execute;autoq;../circuits/eq/exact/Random/26.qasm;../circuits/eq/exact_opt/Random/26.qasm
+execute;autoq;../circuits/eq/exact/Random/27.qasm;../circuits/eq/exact_opt/Random/27.qasm
+execute;autoq;../circuits/eq/exact/Random/28.qasm;../circuits/eq/exact_opt/Random/28.qasm
+execute;autoq;../circuits/eq/exact/Random/29.qasm;../circuits/eq/exact_opt/Random/29.qasm
+execute;autoq;../circuits/eq/exact/Random/30.qasm;../circuits/eq/exact_opt/Random/30.qasm
+execute;autoq;../circuits/eq/exact/Random/31.qasm;../circuits/eq/exact_opt/Random/31.qasm
+execute;autoq;../circuits/eq/exact/Random/32.qasm;../circuits/eq/exact_opt/Random/32.qasm
+execute;autoq;../circuits/eq/exact/Random/33.qasm;../circuits/eq/exact_opt/Random/33.qasm
+execute;autoq;../circuits/eq/exact/Random/34.qasm;../circuits/eq/exact_opt/Random/34.qasm
+execute;autoq;../circuits/eq/exact/Random/35.qasm;../circuits/eq/exact_opt/Random/35.qasm
+execute;autoq;../circuits/eq/exact/Random/36.qasm;../circuits/eq/exact_opt/Random/36.qasm
+execute;autoq;../circuits/eq/exact/Random/37.qasm;../circuits/eq/exact_opt/Random/37.qasm
+execute;autoq;../circuits/eq/exact/Random/38.qasm;../circuits/eq/exact_opt/Random/38.qasm
+execute;autoq;../circuits/eq/exact/Random/39.qasm;../circuits/eq/exact_opt/Random/39.qasm
+execute;autoq;../circuits/eq/exact/Random/40.qasm;../circuits/eq/exact_opt/Random/40.qasm
+execute;autoq;../circuits/eq/exact/Random/41.qasm;../circuits/eq/exact_opt/Random/41.qasm
+execute;autoq;../circuits/eq/exact/Random/42.qasm;../circuits/eq/exact_opt/Random/42.qasm
+execute;autoq;../circuits/eq/exact/Random/43.qasm;../circuits/eq/exact_opt/Random/43.qasm
+execute;autoq;../circuits/eq/exact/Random/44.qasm;../circuits/eq/exact_opt/Random/44.qasm
+execute;autoq;../circuits/eq/exact/Random/45.qasm;../circuits/eq/exact_opt/Random/45.qasm
+execute;autoq;../circuits/eq/exact/Random/46.qasm;../circuits/eq/exact_opt/Random/46.qasm
+execute;autoq;../circuits/eq/exact/Random/47.qasm;../circuits/eq/exact_opt/Random/47.qasm
+execute;autoq;../circuits/eq/exact/Random/48.qasm;../circuits/eq/exact_opt/Random/48.qasm
+execute;autoq;../circuits/eq/exact/Random/49.qasm;../circuits/eq/exact_opt/Random/49.qasm
+execute;autoq;../circuits/eq/exact/Random/50.qasm;../circuits/eq/exact_opt/Random/50.qasm
+execute;autoq;../circuits/eq/exact/Random/51.qasm;../circuits/eq/exact_opt/Random/51.qasm
+execute;autoq;../circuits/eq/exact/Random/52.qasm;../circuits/eq/exact_opt/Random/52.qasm
+execute;autoq;../circuits/eq/exact/Random/53.qasm;../circuits/eq/exact_opt/Random/53.qasm
+execute;autoq;../circuits/eq/exact/Random/54.qasm;../circuits/eq/exact_opt/Random/54.qasm
+execute;autoq;../circuits/eq/exact/Random/55.qasm;../circuits/eq/exact_opt/Random/55.qasm
+execute;autoq;../circuits/eq/exact/Random/56.qasm;../circuits/eq/exact_opt/Random/56.qasm
+execute;autoq;../circuits/eq/exact/Random/57.qasm;../circuits/eq/exact_opt/Random/57.qasm
+execute;autoq;../circuits/eq/exact/Random/58.qasm;../circuits/eq/exact_opt/Random/58.qasm
+execute;autoq;../circuits/eq/exact/Random/59.qasm;../circuits/eq/exact_opt/Random/59.qasm
+execute;autoq;../circuits/eq/exact/Random/60.qasm;../circuits/eq/exact_opt/Random/60.qasm
+execute;autoq;../circuits/eq/exact/Random/61.qasm;../circuits/eq/exact_opt/Random/61.qasm
+execute;autoq;../circuits/eq/exact/Random/62.qasm;../circuits/eq/exact_opt/Random/62.qasm
+execute;autoq;../circuits/eq/exact/Random/63.qasm;../circuits/eq/exact_opt/Random/63.qasm
+execute;autoq;../circuits/eq/exact/Random/64.qasm;../circuits/eq/exact_opt/Random/64.qasm
+execute;autoq;../circuits/eq/exact/Random/65.qasm;../circuits/eq/exact_opt/Random/65.qasm
+execute;autoq;../circuits/eq/exact/Random/66.qasm;../circuits/eq/exact_opt/Random/66.qasm
+execute;autoq;../circuits/eq/exact/Random/67.qasm;../circuits/eq/exact_opt/Random/67.qasm
+execute;autoq;../circuits/eq/exact/Random/68.qasm;../circuits/eq/exact_opt/Random/68.qasm
+execute;autoq;../circuits/eq/exact/Random/69.qasm;../circuits/eq/exact_opt/Random/69.qasm
+execute;autoq;../circuits/eq/exact/Random/70.qasm;../circuits/eq/exact_opt/Random/70.qasm
+execute;autoq;../circuits/eq/exact/Random/71.qasm;../circuits/eq/exact_opt/Random/71.qasm
+execute;autoq;../circuits/eq/exact/Random/72.qasm;../circuits/eq/exact_opt/Random/72.qasm
+execute;autoq;../circuits/eq/exact/Random/73.qasm;../circuits/eq/exact_opt/Random/73.qasm
+execute;autoq;../circuits/eq/exact/Random/74.qasm;../circuits/eq/exact_opt/Random/74.qasm
+execute;autoq;../circuits/eq/exact/Random/75.qasm;../circuits/eq/exact_opt/Random/75.qasm
+execute;autoq;../circuits/eq/exact/Random/76.qasm;../circuits/eq/exact_opt/Random/76.qasm
+execute;autoq;../circuits/eq/exact/Random/77.qasm;../circuits/eq/exact_opt/Random/77.qasm
+execute;autoq;../circuits/eq/exact/Random/78.qasm;../circuits/eq/exact_opt/Random/78.qasm
+execute;autoq;../circuits/eq/exact/Random/79.qasm;../circuits/eq/exact_opt/Random/79.qasm
+execute;autoq;../circuits/eq/exact/Random/80.qasm;../circuits/eq/exact_opt/Random/80.qasm
+execute;autoq;../circuits/eq/exact/Random/81.qasm;../circuits/eq/exact_opt/Random/81.qasm
+execute;autoq;../circuits/eq/exact/Random/82.qasm;../circuits/eq/exact_opt/Random/82.qasm
+execute;autoq;../circuits/eq/exact/Random/83.qasm;../circuits/eq/exact_opt/Random/83.qasm
+execute;autoq;../circuits/eq/exact/Random/84.qasm;../circuits/eq/exact_opt/Random/84.qasm
+execute;autoq;../circuits/eq/exact/Random/85.qasm;../circuits/eq/exact_opt/Random/85.qasm
+execute;autoq;../circuits/eq/exact/Random/86.qasm;../circuits/eq/exact_opt/Random/86.qasm
+execute;autoq;../circuits/eq/exact/Random/87.qasm;../circuits/eq/exact_opt/Random/87.qasm
+execute;autoq;../circuits/eq/exact/Random/88.qasm;../circuits/eq/exact_opt/Random/88.qasm
+execute;autoq;../circuits/eq/exact/Random/89.qasm;../circuits/eq/exact_opt/Random/89.qasm
+execute;autoq;../circuits/eq/exact/Random/90.qasm;../circuits/eq/exact_opt/Random/90.qasm
+execute;autoq;../circuits/eq/exact/Random/91.qasm;../circuits/eq/exact_opt/Random/91.qasm
+execute;autoq;../circuits/eq/exact/Random/92.qasm;../circuits/eq/exact_opt/Random/92.qasm
+execute;autoq;../circuits/eq/exact/Random/93.qasm;../circuits/eq/exact_opt/Random/93.qasm
+execute;autoq;../circuits/eq/exact/Random/94.qasm;../circuits/eq/exact_opt/Random/94.qasm
+execute;autoq;../circuits/eq/exact/Random/95.qasm;../circuits/eq/exact_opt/Random/95.qasm
+execute;autoq;../circuits/eq/exact/Random/96.qasm;../circuits/eq/exact_opt/Random/96.qasm
+execute;autoq;../circuits/eq/exact/Random/97.qasm;../circuits/eq/exact_opt/Random/97.qasm
+execute;autoq;../circuits/eq/exact/Random/98.qasm;../circuits/eq/exact_opt/Random/98.qasm
+execute;autoq;../circuits/eq/exact/Random/99.qasm;../circuits/eq/exact_opt/Random/99.qasm
+execute;autoq;../circuits/eq/exact/RevLib/0410184_169.qasm;../circuits/eq/exact_opt/RevLib/0410184_169.qasm
+execute;autoq;../circuits/eq/exact/RevLib/4gt11_82.qasm;../circuits/eq/exact_opt/RevLib/4gt11_82.qasm
+execute;autoq;../circuits/eq/exact/RevLib/4gt11_83.qasm;../circuits/eq/exact_opt/RevLib/4gt11_83.qasm
+execute;autoq;../circuits/eq/exact/RevLib/4gt11_84.qasm;../circuits/eq/exact_opt/RevLib/4gt11_84.qasm
+execute;autoq;../circuits/eq/exact/RevLib/4gt11-v1_85.qasm;../circuits/eq/exact_opt/RevLib/4gt11-v1_85.qasm
+execute;autoq;../circuits/eq/exact/RevLib/4mod5-bdd_287.qasm;../circuits/eq/exact_opt/RevLib/4mod5-bdd_287.qasm
+execute;autoq;../circuits/eq/exact/RevLib/add16_174.qasm;../circuits/eq/exact_opt/RevLib/add16_174.qasm
+execute;autoq;../circuits/eq/exact/RevLib/add32_183.qasm;../circuits/eq/exact_opt/RevLib/add32_183.qasm
+execute;autoq;../circuits/eq/exact/RevLib/add64_184.qasm;../circuits/eq/exact_opt/RevLib/add64_184.qasm
+execute;autoq;../circuits/eq/exact/RevLib/add8_172.qasm;../circuits/eq/exact_opt/RevLib/add8_172.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-bdd_288.qasm;../circuits/eq/exact_opt/RevLib/alu-bdd_288.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v0_27.qasm;../circuits/eq/exact_opt/RevLib/alu-v0_27.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v1_28.qasm;../circuits/eq/exact_opt/RevLib/alu-v1_28.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v1_29.qasm;../circuits/eq/exact_opt/RevLib/alu-v1_29.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v2_33.qasm;../circuits/eq/exact_opt/RevLib/alu-v2_33.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v3_34.qasm;../circuits/eq/exact_opt/RevLib/alu-v3_34.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v3_35.qasm;../circuits/eq/exact_opt/RevLib/alu-v3_35.qasm
+execute;autoq;../circuits/eq/exact/RevLib/alu-v4_37.qasm;../circuits/eq/exact_opt/RevLib/alu-v4_37.qasm
+execute;autoq;../circuits/eq/exact/RevLib/bw_291.qasm;../circuits/eq/exact_opt/RevLib/bw_291.qasm
+execute;autoq;../circuits/eq/exact/RevLib/cnt3-5_179.qasm;../circuits/eq/exact_opt/RevLib/cnt3-5_179.qasm
+execute;autoq;../circuits/eq/exact/RevLib/cycle10_293.qasm;../circuits/eq/exact_opt/RevLib/cycle10_293.qasm
+execute;autoq;../circuits/eq/exact/RevLib/decod24-bdd_294.qasm;../circuits/eq/exact_opt/RevLib/decod24-bdd_294.qasm
+execute;autoq;../circuits/eq/exact/RevLib/decod24-enable_125.qasm;../circuits/eq/exact_opt/RevLib/decod24-enable_125.qasm
+execute;autoq;../circuits/eq/exact/RevLib/decod24-v0_38.qasm;../circuits/eq/exact_opt/RevLib/decod24-v0_38.qasm
+execute;autoq;../circuits/eq/exact/RevLib/decod24-v2_43.qasm;../circuits/eq/exact_opt/RevLib/decod24-v2_43.qasm
+execute;autoq;../circuits/eq/exact/RevLib/e64-bdd_295.qasm;../circuits/eq/exact_opt/RevLib/e64-bdd_295.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ex-1_166.qasm;../circuits/eq/exact_opt/RevLib/ex-1_166.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ex1_226.qasm;../circuits/eq/exact_opt/RevLib/ex1_226.qasm
+execute;autoq;../circuits/eq/exact/RevLib/fredkin_6.qasm;../circuits/eq/exact_opt/RevLib/fredkin_6.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ham15_298.qasm;../circuits/eq/exact_opt/RevLib/ham15_298.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ham3_102.qasm;../circuits/eq/exact_opt/RevLib/ham3_102.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ham7_106.qasm;../circuits/eq/exact_opt/RevLib/ham7_106.qasm
+execute;autoq;../circuits/eq/exact/RevLib/ham7_299.qasm;../circuits/eq/exact_opt/RevLib/ham7_299.qasm
+execute;autoq;../circuits/eq/exact/RevLib/hwb5_300.qasm;../circuits/eq/exact_opt/RevLib/hwb5_300.qasm
+execute;autoq;../circuits/eq/exact/RevLib/hwb6_301.qasm;../circuits/eq/exact_opt/RevLib/hwb6_301.qasm
+execute;autoq;../circuits/eq/exact/RevLib/hwb7_302.qasm;../circuits/eq/exact_opt/RevLib/hwb7_302.qasm
+execute;autoq;../circuits/eq/exact/RevLib/hwb8_303.qasm;../circuits/eq/exact_opt/RevLib/hwb8_303.qasm
+execute;autoq;../circuits/eq/exact/RevLib/mini_alu_305.qasm;../circuits/eq/exact_opt/RevLib/mini_alu_305.qasm
+execute;autoq;../circuits/eq/exact/RevLib/mod5adder_306.qasm;../circuits/eq/exact_opt/RevLib/mod5adder_306.qasm
+execute;autoq;../circuits/eq/exact/RevLib/mod5d2_70.qasm;../circuits/eq/exact_opt/RevLib/mod5d2_70.qasm
+execute;autoq;../circuits/eq/exact/RevLib/mod5mils_71.qasm;../circuits/eq/exact_opt/RevLib/mod5mils_71.qasm
+execute;autoq;../circuits/eq/exact/RevLib/one-two-three-v2_100.qasm;../circuits/eq/exact_opt/RevLib/one-two-three-v2_100.qasm
+execute;autoq;../circuits/eq/exact/RevLib/one-two-three-v3_101.qasm;../circuits/eq/exact_opt/RevLib/one-two-three-v3_101.qasm
+execute;autoq;../circuits/eq/exact/RevLib/parity_247.qasm;../circuits/eq/exact_opt/RevLib/parity_247.qasm
+execute;autoq;../circuits/eq/exact/RevLib/peres_9.qasm;../circuits/eq/exact_opt/RevLib/peres_9.qasm
+execute;autoq;../circuits/eq/exact/RevLib/plus127mod8192_308.qasm;../circuits/eq/exact_opt/RevLib/plus127mod8192_308.qasm
+execute;autoq;../circuits/eq/exact/RevLib/plus63mod4096_309.qasm;../circuits/eq/exact_opt/RevLib/plus63mod4096_309.qasm
+execute;autoq;../circuits/eq/exact/RevLib/plus63mod8192_310.qasm;../circuits/eq/exact_opt/RevLib/plus63mod8192_310.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd32_270.qasm;../circuits/eq/exact_opt/RevLib/rd32_270.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd32_271.qasm;../circuits/eq/exact_opt/RevLib/rd32_271.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd32_272.qasm;../circuits/eq/exact_opt/RevLib/rd32_272.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd53_138.qasm;../circuits/eq/exact_opt/RevLib/rd53_138.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd53_311.qasm;../circuits/eq/exact_opt/RevLib/rd53_311.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd73_140.qasm;../circuits/eq/exact_opt/RevLib/rd73_140.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd73_312.qasm;../circuits/eq/exact_opt/RevLib/rd73_312.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd84_142.qasm;../circuits/eq/exact_opt/RevLib/rd84_142.qasm
+execute;autoq;../circuits/eq/exact/RevLib/rd84_313.qasm;../circuits/eq/exact_opt/RevLib/rd84_313.qasm
+execute;autoq;../circuits/eq/exact/RevLib/sym6_316.qasm;../circuits/eq/exact_opt/RevLib/sym6_316.qasm
+execute;autoq;../circuits/eq/exact/RevLib/sym9_146.qasm;../circuits/eq/exact_opt/RevLib/sym9_146.qasm
+execute;autoq;../circuits/eq/exact/RevLib/sym9_192.qasm;../circuits/eq/exact_opt/RevLib/sym9_192.qasm
+execute;autoq;../circuits/eq/exact/RevLib/sym9_317.qasm;../circuits/eq/exact_opt/RevLib/sym9_317.qasm
+execute;autoq;../circuits/eq/exact/RevLib/sys6-v0_111.qasm;../circuits/eq/exact_opt/RevLib/sys6-v0_111.qasm
+execute;autoq;../circuits/eq/exact/RevLib/xor5_254.qasm;../circuits/eq/exact_opt/RevLib/xor5_254.qasm
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/02.qasm;../circuits/eq/exact_opt/BernsteinVazirani/02.qasm;0;###runtime:0.03######memory:7788######result:eq;;0.0
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/01.qasm;../circuits/eq/exact_opt/BernsteinVazirani/01.qasm;0;###runtime:0.03######memory:7700######result:eq;;0.01
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/03.qasm;../circuits/eq/exact_opt/BernsteinVazirani/03.qasm;0;###runtime:0.03######memory:8220######result:eq;;0.01
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/04.qasm;../circuits/eq/exact_opt/BernsteinVazirani/04.qasm;0;###runtime:0.04######memory:8208######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/05.qasm;../circuits/eq/exact_opt/BernsteinVazirani/05.qasm;0;###runtime:0.04######memory:8984######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/06.qasm;../circuits/eq/exact_opt/BernsteinVazirani/06.qasm;0;###runtime:0.08######memory:10124######result:eq;;0.09
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/07.qasm;../circuits/eq/exact_opt/BernsteinVazirani/07.qasm;0;###runtime:0.25######memory:11380######result:eq;;0.26
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/08.qasm;../circuits/eq/exact_opt/BernsteinVazirani/08.qasm;0;###runtime:0.35######memory:13952######result:eq;;0.34
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/09.qasm;../circuits/eq/exact_opt/BernsteinVazirani/09.qasm;0;###runtime:0.70######memory:24800######result:eq;;0.69
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/10.qasm;../circuits/eq/exact_opt/BernsteinVazirani/10.qasm;0;###runtime:1.83######memory:60860######result:eq;;1.74
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/11.qasm;../circuits/eq/exact_opt/BernsteinVazirani/11.qasm;0;###runtime:7.41######memory:188728######result:eq;;7.01
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/12.qasm;../circuits/eq/exact_opt/BernsteinVazirani/12.qasm;0;###runtime:34.61######memory:666920######result:eq;;33.46
+error;autoq;../circuits/eq/exact/BernsteinVazirani/16.qasm;../circuits/eq/exact_opt/BernsteinVazirani/16.qasm;real 45.21###user 41.23###sys 3.87
+error;autoq;../circuits/eq/exact/BernsteinVazirani/15.qasm;../circuits/eq/exact_opt/BernsteinVazirani/15.qasm;real 116.10###user 109.85###sys 6.14
+error;autoq;../circuits/eq/exact/BernsteinVazirani/14.qasm;../circuits/eq/exact_opt/BernsteinVazirani/14.qasm;real 130.37###user 123.22###sys 7.05
+error;autoq;../circuits/eq/exact/BernsteinVazirani/17.qasm;../circuits/eq/exact_opt/BernsteinVazirani/17.qasm;real 52.60###user 46.43###sys 6.06
+error;autoq;../circuits/eq/exact/BernsteinVazirani/20.qasm;../circuits/eq/exact_opt/BernsteinVazirani/20.qasm;real 21.71###user 17.33###sys 4.28
+finished;autoq;../circuits/eq/exact/BernsteinVazirani/13.qasm;../circuits/eq/exact_opt/BernsteinVazirani/13.qasm;0;###runtime:167.62######memory:2510732######result:eq;;163.89
+error;autoq;../circuits/eq/exact/BernsteinVazirani/21.qasm;../circuits/eq/exact_opt/BernsteinVazirani/21.qasm;real 24.42###user 19.41###sys 4.91
+error;autoq;../circuits/eq/exact/BernsteinVazirani/18.qasm;../circuits/eq/exact_opt/BernsteinVazirani/18.qasm;real 58.51###user 54.34###sys 4.04
+error;autoq;../circuits/eq/exact/BernsteinVazirani/22.qasm;../circuits/eq/exact_opt/BernsteinVazirani/22.qasm;real 27.71###user 21.89###sys 5.73
+error;autoq;../circuits/eq/exact/BernsteinVazirani/19.qasm;../circuits/eq/exact_opt/BernsteinVazirani/19.qasm;real 70.44###user 65.35###sys 4.97
+error;autoq;../circuits/eq/exact/BernsteinVazirani/23.qasm;../circuits/eq/exact_opt/BernsteinVazirani/23.qasm;real 31.47###user 24.86###sys 6.51
+error;autoq;../circuits/eq/exact/BernsteinVazirani/24.qasm;../circuits/eq/exact_opt/BernsteinVazirani/24.qasm;real 29.24###user 25.84###sys 3.29
+error;autoq;../circuits/eq/exact/BernsteinVazirani/28.qasm;../circuits/eq/exact_opt/BernsteinVazirani/28.qasm;real 15.95###user 12.08###sys 3.77
+error;autoq;../circuits/eq/exact/BernsteinVazirani/25.qasm;../circuits/eq/exact_opt/BernsteinVazirani/25.qasm;real 32.33###user 28.44###sys 3.77
+error;autoq;../circuits/eq/exact/BernsteinVazirani/26.qasm;../circuits/eq/exact_opt/BernsteinVazirani/26.qasm;real 36.13###user 31.47###sys 4.54
+error;autoq;../circuits/eq/exact/BernsteinVazirani/29.qasm;../circuits/eq/exact_opt/BernsteinVazirani/29.qasm;real 17.62###user 13.22###sys 4.29
+error;autoq;../circuits/eq/exact/BernsteinVazirani/30.qasm;../circuits/eq/exact_opt/BernsteinVazirani/30.qasm;real 19.86###user 15.05###sys 4.72
+error;autoq;../circuits/eq/exact/BernsteinVazirani/27.qasm;../circuits/eq/exact_opt/BernsteinVazirani/27.qasm;real 41.43###user 36.16###sys 5.17
+error;autoq;../circuits/eq/exact/BernsteinVazirani/31.qasm;../circuits/eq/exact_opt/BernsteinVazirani/31.qasm;real 20.71###user 15.67###sys 4.95
+error;autoq;../circuits/eq/exact/BernsteinVazirani/32.qasm;../circuits/eq/exact_opt/BernsteinVazirani/32.qasm;real 21.40###user 16.17###sys 5.12
+error;autoq;../circuits/eq/exact/BernsteinVazirani/33.qasm;../circuits/eq/exact_opt/BernsteinVazirani/33.qasm;real 22.82###user 16.93###sys 5.80
+error;autoq;../circuits/eq/exact/BernsteinVazirani/34.qasm;../circuits/eq/exact_opt/BernsteinVazirani/34.qasm;real 23.78###user 17.71###sys 5.95
+error;autoq;../circuits/eq/exact/BernsteinVazirani/35.qasm;../circuits/eq/exact_opt/BernsteinVazirani/35.qasm;real 21.30###user 18.34###sys 2.86
+error;autoq;../circuits/eq/exact/BernsteinVazirani/36.qasm;../circuits/eq/exact_opt/BernsteinVazirani/36.qasm;real 22.98###user 19.81###sys 3.08
+error;autoq;../circuits/eq/exact/BernsteinVazirani/37.qasm;../circuits/eq/exact_opt/BernsteinVazirani/37.qasm;real 23.73###user 20.49###sys 3.15
+error;autoq;../circuits/eq/exact/BernsteinVazirani/38.qasm;../circuits/eq/exact_opt/BernsteinVazirani/38.qasm;real 25.65###user 22.04###sys 3.49
+error;autoq;../circuits/eq/exact/BernsteinVazirani/39.qasm;../circuits/eq/exact_opt/BernsteinVazirani/39.qasm;real 27.09###user 23.28###sys 3.71
+error;autoq;../circuits/eq/exact/BernsteinVazirani/40.qasm;../circuits/eq/exact_opt/BernsteinVazirani/40.qasm;real 28.94###user 24.97###sys 3.88
+error;autoq;../circuits/eq/exact/BernsteinVazirani/41.qasm;../circuits/eq/exact_opt/BernsteinVazirani/41.qasm;real 29.97###user 25.77###sys 4.11
+error;autoq;../circuits/eq/exact/BernsteinVazirani/42.qasm;../circuits/eq/exact_opt/BernsteinVazirani/42.qasm;real 31.18###user 26.46###sys 4.61
+error;autoq;../circuits/eq/exact/BernsteinVazirani/45.qasm;../circuits/eq/exact_opt/BernsteinVazirani/45.qasm;real 14.21###user 10.73###sys 3.38
+error;autoq;../circuits/eq/exact/BernsteinVazirani/43.qasm;../circuits/eq/exact_opt/BernsteinVazirani/43.qasm;real 33.59###user 28.96###sys 4.53
+error;autoq;../circuits/eq/exact/BernsteinVazirani/46.qasm;../circuits/eq/exact_opt/BernsteinVazirani/46.qasm;real 14.16###user 10.53###sys 3.55
+error;autoq;../circuits/eq/exact/BernsteinVazirani/44.qasm;../circuits/eq/exact_opt/BernsteinVazirani/44.qasm;real 34.97###user 29.95###sys 4.93
+error;autoq;../circuits/eq/exact/BernsteinVazirani/47.qasm;../circuits/eq/exact_opt/BernsteinVazirani/47.qasm;real 16.36###user 12.22###sys 4.05
+error;autoq;../circuits/eq/exact/BernsteinVazirani/48.qasm;../circuits/eq/exact_opt/BernsteinVazirani/48.qasm;real 16.16###user 11.87###sys 4.17
+error;autoq;../circuits/eq/exact/BernsteinVazirani/49.qasm;../circuits/eq/exact_opt/BernsteinVazirani/49.qasm;real 17.35###user 12.99###sys 4.27
+error;autoq;../circuits/eq/exact/BernsteinVazirani/50.qasm;../circuits/eq/exact_opt/BernsteinVazirani/50.qasm;real 18.47###user 13.79###sys 4.57
+error;autoq;../circuits/eq/exact/BernsteinVazirani/51.qasm;../circuits/eq/exact_opt/BernsteinVazirani/51.qasm;real 18.86###user 13.85###sys 4.93
+error;autoq;../circuits/eq/exact/BernsteinVazirani/52.qasm;../circuits/eq/exact_opt/BernsteinVazirani/52.qasm;real 19.54###user 14.63###sys 4.82
+error;autoq;../circuits/eq/exact/BernsteinVazirani/53.qasm;../circuits/eq/exact_opt/BernsteinVazirani/53.qasm;real 19.68###user 14.78###sys 4.80
+error;autoq;../circuits/eq/exact/BernsteinVazirani/54.qasm;../circuits/eq/exact_opt/BernsteinVazirani/54.qasm;real 21.81###user 16.17###sys 5.55
+error;autoq;../circuits/eq/exact/BernsteinVazirani/55.qasm;../circuits/eq/exact_opt/BernsteinVazirani/55.qasm;real 22.37###user 16.66###sys 5.61
+error;autoq;../circuits/eq/exact/BernsteinVazirani/56.qasm;../circuits/eq/exact_opt/BernsteinVazirani/56.qasm;real 22.97###user 17.11###sys 5.78
+error;autoq;../circuits/eq/exact/BernsteinVazirani/57.qasm;../circuits/eq/exact_opt/BernsteinVazirani/57.qasm;real 23.67###user 17.23###sys 6.32
+error;autoq;../circuits/eq/exact/BernsteinVazirani/58.qasm;../circuits/eq/exact_opt/BernsteinVazirani/58.qasm;real 25.37###user 18.99###sys 6.28
+error;autoq;../circuits/eq/exact/BernsteinVazirani/59.qasm;../circuits/eq/exact_opt/BernsteinVazirani/59.qasm;real 25.31###user 18.66###sys 6.55
+error;autoq;../circuits/eq/exact/BernsteinVazirani/60.qasm;../circuits/eq/exact_opt/BernsteinVazirani/60.qasm;real 23.38###user 20.31###sys 2.97
+error;autoq;../circuits/eq/exact/BernsteinVazirani/61.qasm;../circuits/eq/exact_opt/BernsteinVazirani/61.qasm;real 22.64###user 19.59###sys 2.96
+error;autoq;../circuits/eq/exact/BernsteinVazirani/62.qasm;../circuits/eq/exact_opt/BernsteinVazirani/62.qasm;real 24.61###user 21.55###sys 2.98
+error;autoq;../circuits/eq/exact/BernsteinVazirani/63.qasm;../circuits/eq/exact_opt/BernsteinVazirani/63.qasm;real 24.31###user 21.23###sys 3.00
+error;autoq;../circuits/eq/exact/BernsteinVazirani/64.qasm;../circuits/eq/exact_opt/BernsteinVazirani/64.qasm;real 26.11###user 22.86###sys 3.16
+error;autoq;../circuits/eq/exact/BernsteinVazirani/65.qasm;../circuits/eq/exact_opt/BernsteinVazirani/65.qasm;real 25.46###user 22.01###sys 3.34
+error;autoq;../circuits/eq/exact/BernsteinVazirani/66.qasm;../circuits/eq/exact_opt/BernsteinVazirani/66.qasm;real 28.83###user 25.04###sys 3.68
+error;autoq;../circuits/eq/exact/BernsteinVazirani/67.qasm;../circuits/eq/exact_opt/BernsteinVazirani/67.qasm;real 29.52###user 25.85###sys 3.56
+error;autoq;../circuits/eq/exact/BernsteinVazirani/68.qasm;../circuits/eq/exact_opt/BernsteinVazirani/68.qasm;real 29.96###user 26.24###sys 3.63
+error;autoq;../circuits/eq/exact/BernsteinVazirani/69.qasm;../circuits/eq/exact_opt/BernsteinVazirani/69.qasm;real 30.44###user 26.25###sys 4.08
+error;autoq;../circuits/eq/exact/BernsteinVazirani/70.qasm;../circuits/eq/exact_opt/BernsteinVazirani/70.qasm;real 32.47###user 28.42###sys 3.96
+error;autoq;../circuits/eq/exact/BernsteinVazirani/71.qasm;../circuits/eq/exact_opt/BernsteinVazirani/71.qasm;real 35.98###user 31.67###sys 4.21
+error;autoq;../circuits/eq/exact/BernsteinVazirani/72.qasm;../circuits/eq/exact_opt/BernsteinVazirani/72.qasm;real 36.70###user 32.52###sys 4.08
+error;autoq;../circuits/eq/exact/BernsteinVazirani/73.qasm;../circuits/eq/exact_opt/BernsteinVazirani/73.qasm;real 33.92###user 29.59###sys 4.21
+error;autoq;../circuits/eq/exact/BernsteinVazirani/74.qasm;../circuits/eq/exact_opt/BernsteinVazirani/74.qasm;real 38.28###user 33.72###sys 4.46
+error;autoq;../circuits/eq/exact/BernsteinVazirani/75.qasm;../circuits/eq/exact_opt/BernsteinVazirani/75.qasm;real 42.41###user 37.84###sys 4.46
+error;autoq;../circuits/eq/exact/BernsteinVazirani/76.qasm;../circuits/eq/exact_opt/BernsteinVazirani/76.qasm;real 42.68###user 38.11###sys 4.47
+error;autoq;../circuits/eq/exact/BernsteinVazirani/77.qasm;../circuits/eq/exact_opt/BernsteinVazirani/77.qasm;real 41.31###user 36.46###sys 4.71
+error;autoq;../circuits/eq/exact/BernsteinVazirani/81.qasm;../circuits/eq/exact_opt/BernsteinVazirani/81.qasm;real 16.28###user 12.65###sys 3.53
+error;autoq;../circuits/eq/exact/BernsteinVazirani/78.qasm;../circuits/eq/exact_opt/BernsteinVazirani/78.qasm;real 43.50###user 37.92###sys 5.49
+error;autoq;../circuits/eq/exact/BernsteinVazirani/82.qasm;../circuits/eq/exact_opt/BernsteinVazirani/82.qasm;real 18.13###user 14.74###sys 3.29
+error;autoq;../circuits/eq/exact/BernsteinVazirani/80.qasm;../circuits/eq/exact_opt/BernsteinVazirani/80.qasm;real 37.09###user 31.67###sys 5.29
+error;autoq;../circuits/eq/exact/BernsteinVazirani/79.qasm;../circuits/eq/exact_opt/BernsteinVazirani/79.qasm;real 43.62###user 38.17###sys 5.34
+error;autoq;../circuits/eq/exact/BernsteinVazirani/83.qasm;../circuits/eq/exact_opt/BernsteinVazirani/83.qasm;real 17.03###user 13.42###sys 3.53
+error;autoq;../circuits/eq/exact/BernsteinVazirani/84.qasm;../circuits/eq/exact_opt/BernsteinVazirani/84.qasm;real 17.46###user 13.64###sys 3.72
+error;autoq;../circuits/eq/exact/BernsteinVazirani/85.qasm;../circuits/eq/exact_opt/BernsteinVazirani/85.qasm;real 17.75###user 13.77###sys 3.89
+error;autoq;../circuits/eq/exact/BernsteinVazirani/86.qasm;../circuits/eq/exact_opt/BernsteinVazirani/86.qasm;real 18.88###user 14.83###sys 3.95
+error;autoq;../circuits/eq/exact/BernsteinVazirani/87.qasm;../circuits/eq/exact_opt/BernsteinVazirani/87.qasm;real 19.38###user 15.21###sys 4.05
+error;autoq;../circuits/eq/exact/BernsteinVazirani/88.qasm;../circuits/eq/exact_opt/BernsteinVazirani/88.qasm;real 19.83###user 15.52###sys 4.22
+error;autoq;../circuits/eq/exact/BernsteinVazirani/89.qasm;../circuits/eq/exact_opt/BernsteinVazirani/89.qasm;real 21.11###user 16.70###sys 4.32
+error;autoq;../circuits/eq/exact/BernsteinVazirani/90.qasm;../circuits/eq/exact_opt/BernsteinVazirani/90.qasm;real 20.47###user 15.74###sys 4.64
+error;autoq;../circuits/eq/exact/BernsteinVazirani/91.qasm;../circuits/eq/exact_opt/BernsteinVazirani/91.qasm;real 22.39###user 17.55###sys 4.74
+error;autoq;../circuits/eq/exact/BernsteinVazirani/92.qasm;../circuits/eq/exact_opt/BernsteinVazirani/92.qasm;real 24.69###user 16.99###sys 7.22
+error;autoq;../circuits/eq/exact/BernsteinVazirani/93.qasm;../circuits/eq/exact_opt/BernsteinVazirani/93.qasm;real 25.36###user 19.93###sys 5.19
+error;autoq;../circuits/eq/exact/BernsteinVazirani/94.qasm;../circuits/eq/exact_opt/BernsteinVazirani/94.qasm;real 24.36###user 18.96###sys 5.17
+error;autoq;../circuits/eq/exact/BernsteinVazirani/95.qasm;../circuits/eq/exact_opt/BernsteinVazirani/95.qasm;real 27.10###user 20.79###sys 6.07
+error;autoq;../circuits/eq/exact/BernsteinVazirani/96.qasm;../circuits/eq/exact_opt/BernsteinVazirani/96.qasm;real 24.47###user 19.51###sys 4.85
+error;autoq;../circuits/eq/exact/BernsteinVazirani/97.qasm;../circuits/eq/exact_opt/BernsteinVazirani/97.qasm;real 25.49###user 20.02###sys 5.36
+error;autoq;../circuits/eq/exact/BernsteinVazirani/98.qasm;../circuits/eq/exact_opt/BernsteinVazirani/98.qasm;real 25.34###user 19.94###sys 5.31
+finished;autoq;../circuits/eq/exact/Feynman/barenco_tof_3.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_3.qasm;0;###runtime:0.03######memory:8228######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/Feynman/barenco_tof_4.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_4.qasm;0;###runtime:0.12######memory:9080######result:eq;;0.12
+finished;autoq;../circuits/eq/exact/Feynman/barenco_tof_5.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_5.qasm;0;###runtime:0.26######memory:9572######result:eq;;0.27
+error;autoq;../circuits/eq/exact/BernsteinVazirani/99.qasm;../circuits/eq/exact_opt/BernsteinVazirani/99.qasm;real 24.15###user 18.98###sys 5.06
+finished;autoq;../circuits/eq/exact/Feynman/csla_mux_3.qasm;../circuits/eq/exact_opt/Feynman/csla_mux_3.qasm;0;###runtime:19.29######memory:208120######result:eq;;18.83
+error;autoq;../circuits/eq/exact/Feynman/gf2^10_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^10_mult.qasm;real 64.67###user 43.72###sys 20.85
+error;autoq;../circuits/eq/exact/Feynman/gf2^16_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^16_mult.qasm;real 118.13###user 111.41###sys 6.61
+finished;autoq;../circuits/eq/exact/Feynman/gf2^4_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^4_mult.qasm;0;###runtime:37.20######memory:125360######result:eq;;36.8
+timeout;autoq;../circuits/eq/exact/Feynman/adder_8.qasm;../circuits/eq/exact_opt/Feynman/adder_8.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/barenco_tof_10.qasm;../circuits/eq/exact_opt/Feynman/barenco_tof_10.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/csum_mux_9.qasm;../circuits/eq/exact_opt/Feynman/csum_mux_9.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/gf2^5_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^5_mult.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/gf2^6_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^6_mult.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/gf2^7_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^7_mult.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/gf2^8_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^8_mult.qasm
+error;autoq;../circuits/eq/exact/Feynman/gf2^9_mult.qasm;../circuits/eq/exact_opt/Feynman/gf2^9_mult.qasm;real 156.60###user 91.61###sys 64.72
+error;autoq;../circuits/eq/exact/Feynman/ham15-low.qasm;../circuits/eq/exact_opt/Feynman/ham15-low.qasm;real 232.08###user 210.24###sys 21.62
+finished;autoq;../circuits/eq/exact/Feynman/hwb6.qasm;../circuits/eq/exact_opt/Feynman/hwb6.qasm;0;###runtime:1.42######memory:13820######result:eq;;1.4
+finished;autoq;../circuits/eq/exact/Feynman/mod5_4.qasm;../circuits/eq/exact_opt/Feynman/mod5_4.qasm;0;###runtime:0.01######memory:8268######result:eq;;0.02
+timeout;autoq;../circuits/eq/exact/Feynman/grover_5.qasm;../circuits/eq/exact_opt/Feynman/grover_5.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/ham15-high.qasm;../circuits/eq/exact_opt/Feynman/ham15-high.qasm
+finished;autoq;../circuits/eq/exact/Feynman/mod_mult_55.qasm;../circuits/eq/exact_opt/Feynman/mod_mult_55.qasm;0;###runtime:4.25######memory:42424######result:eq;;4.2
+finished;autoq;../circuits/eq/exact/Feynman/mod_red_21.qasm;../circuits/eq/exact_opt/Feynman/mod_red_21.qasm;0;###runtime:8.39######memory:50232######result:eq;;8.35
+error;autoq;../circuits/eq/exact/Feynman/qcla_adder_10.qasm;../circuits/eq/exact_opt/Feynman/qcla_adder_10.qasm;real 25.76###user 19.90###sys 5.72
+timeout;autoq;../circuits/eq/exact/Feynman/ham15-med.qasm;../circuits/eq/exact_opt/Feynman/ham15-med.qasm
+finished;autoq;../circuits/eq/exact/Feynman/qft_4.qasm;../circuits/eq/exact_opt/Feynman/qft_4.qasm;0;###runtime:1.01######memory:18432######result:eq;;1.01
+finished;autoq;../circuits/eq/exact/Feynman/rc_adder_6.qasm;../circuits/eq/exact_opt/Feynman/rc_adder_6.qasm;0;###runtime:2.55######memory:35012######result:eq;;2.51
+timeout;autoq;../circuits/eq/exact/Feynman/mod_adder_1024.qasm;../circuits/eq/exact_opt/Feynman/mod_adder_1024.qasm
+finished;autoq;../circuits/eq/exact/Feynman/tof_3.qasm;../circuits/eq/exact_opt/Feynman/tof_3.qasm;0;###runtime:0.02######memory:8352######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/Feynman/tof_4.qasm;../circuits/eq/exact_opt/Feynman/tof_4.qasm;0;###runtime:0.09######memory:8884######result:eq;;0.1
+finished;autoq;../circuits/eq/exact/Feynman/tof_5.qasm;../circuits/eq/exact_opt/Feynman/tof_5.qasm;0;###runtime:0.18######memory:9364######result:eq;;0.19
+finished;autoq;../circuits/eq/exact/Feynman/vbe_adder_3.qasm;../circuits/eq/exact_opt/Feynman/vbe_adder_3.qasm;0;###runtime:0.17######memory:9188######result:eq;;0.18
+timeout;autoq;../circuits/eq/exact/Feynman/qcla_com_7.qasm;../circuits/eq/exact_opt/Feynman/qcla_com_7.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/qcla_mod_7.qasm;../circuits/eq/exact_opt/Feynman/qcla_mod_7.qasm
+timeout;autoq;../circuits/eq/exact/Feynman/tof_10.qasm;../circuits/eq/exact_opt/Feynman/tof_10.qasm
+error;autoq;../circuits/eq/exact/LP-Grover/08.qasm;../circuits/eq/exact_opt/LP-Grover/08.qasm;real 78.62###user 71.20###sys 7.31
+timeout;autoq;../circuits/eq/exact/LP-Grover/05.qasm;../circuits/eq/exact_opt/LP-Grover/05.qasm
+error;autoq;../circuits/eq/exact/LP-Grover/07.qasm;../circuits/eq/exact_opt/LP-Grover/07.qasm;real 263.51###user 256.39###sys 6.96
+error;autoq;../circuits/eq/exact/LP-Grover/09.qasm;../circuits/eq/exact_opt/LP-Grover/09.qasm;real 114.65###user 103.16###sys 11.36
+finished;autoq;../circuits/eq/exact/MCToffoli/03.qasm;../circuits/eq/exact_opt/MCToffoli/03.qasm;0;###runtime:0.09######memory:8716######result:eq;;0.06
+finished;autoq;../circuits/eq/exact/MCToffoli/04.qasm;../circuits/eq/exact_opt/MCToffoli/04.qasm;0;###runtime:0.14######memory:8964######result:eq;;0.11
+finished;autoq;../circuits/eq/exact/MCToffoli/05.qasm;../circuits/eq/exact_opt/MCToffoli/05.qasm;0;###runtime:0.22######memory:9340######result:eq;;0.19
+finished;autoq;../circuits/eq/exact/MCToffoli/06.qasm;../circuits/eq/exact_opt/MCToffoli/06.qasm;0;###runtime:0.39######memory:10148######result:eq;;0.36
+finished;autoq;../circuits/eq/exact/MCToffoli/07.qasm;../circuits/eq/exact_opt/MCToffoli/07.qasm;0;###runtime:0.95######memory:20028######result:eq;;0.91
+finished;autoq;../circuits/eq/exact/MCToffoli/08.qasm;../circuits/eq/exact_opt/MCToffoli/08.qasm;0;###runtime:0.94######memory:14992######result:eq;;0.89
+finished;autoq;../circuits/eq/exact/MCToffoli/09.qasm;../circuits/eq/exact_opt/MCToffoli/09.qasm;0;###runtime:3.27######memory:57588######result:eq;;3.16
+finished;autoq;../circuits/eq/exact/MCToffoli/10.qasm;../circuits/eq/exact_opt/MCToffoli/10.qasm;0;###runtime:2.71######memory:26756######result:eq;;2.67
+timeout;autoq;../circuits/eq/exact/LP-Grover/06.qasm;../circuits/eq/exact_opt/LP-Grover/06.qasm
+finished;autoq;../circuits/eq/exact/MCToffoli/11.qasm;../circuits/eq/exact_opt/MCToffoli/11.qasm;0;###runtime:6.24######memory:67676######result:eq;;6.19
+finished;autoq;../circuits/eq/exact/MCToffoli/12.qasm;../circuits/eq/exact_opt/MCToffoli/12.qasm;0;###runtime:11.21######memory:196216######result:eq;;10.9
+finished;autoq;../circuits/eq/exact/MCToffoli/14.qasm;../circuits/eq/exact_opt/MCToffoli/14.qasm;0;###runtime:4.48######memory:52576######result:eq;;4.43
+finished;autoq;../circuits/eq/exact/MCToffoli/15.qasm;../circuits/eq/exact_opt/MCToffoli/15.qasm;0;###runtime:19.33######memory:378540######result:eq;;18.69
+finished;autoq;../circuits/eq/exact/MCToffoli/13.qasm;../circuits/eq/exact_opt/MCToffoli/13.qasm;0;###runtime:93.55######memory:745844######result:eq;;89.6
+error;autoq;../circuits/eq/exact/LP-Grover/10.qasm;../circuits/eq/exact_opt/LP-Grover/10.qasm;real 169.14###user 155.71###sys 13.29
+finished;autoq;../circuits/eq/exact/MCToffoli/17.qasm;../circuits/eq/exact_opt/MCToffoli/17.qasm;0;###runtime:12.83######memory:129356######result:eq;;12.65
+finished;autoq;../circuits/eq/exact/MCToffoli/18.qasm;../circuits/eq/exact_opt/MCToffoli/18.qasm;0;###runtime:12.60######memory:90096######result:eq;;12.48
+finished;autoq;../circuits/eq/exact/MCToffoli/19.qasm;../circuits/eq/exact_opt/MCToffoli/19.qasm;0;###runtime:12.88######memory:120992######result:eq;;12.64
+finished;autoq;../circuits/eq/exact/MCToffoli/20.qasm;../circuits/eq/exact_opt/MCToffoli/20.qasm;0;###runtime:12.39######memory:145508######result:eq;;12.24
+finished;autoq;../circuits/eq/exact/MCToffoli/21.qasm;../circuits/eq/exact_opt/MCToffoli/21.qasm;0;###runtime:12.68######memory:75036######result:eq;;12.59
+error;autoq;../circuits/eq/exact/LP-Grover/11.qasm;../circuits/eq/exact_opt/LP-Grover/11.qasm;real 151.19###user 141.17###sys 9.90
+finished;autoq;../circuits/eq/exact/MCToffoli/22.qasm;../circuits/eq/exact_opt/MCToffoli/22.qasm;0;###runtime:22.16######memory:353228######result:eq;;21.19
+finished;autoq;../circuits/eq/exact/MCToffoli/24.qasm;../circuits/eq/exact_opt/MCToffoli/24.qasm;0;###runtime:21.43######memory:100352######result:eq;;21.3
+finished;autoq;../circuits/eq/exact/MCToffoli/16.qasm;../circuits/eq/exact_opt/MCToffoli/16.qasm;0;###runtime:131.03######memory:1611768######result:eq;;122.13
+finished;autoq;../circuits/eq/exact/MCToffoli/23.qasm;../circuits/eq/exact_opt/MCToffoli/23.qasm;0;###runtime:35.71######memory:271508######result:eq;;34.55
+finished;autoq;../circuits/eq/exact/MCToffoli/26.qasm;../circuits/eq/exact_opt/MCToffoli/26.qasm;0;###runtime:14.40######memory:104536######result:eq;;14.29
+finished;autoq;../circuits/eq/exact/MCToffoli/27.qasm;../circuits/eq/exact_opt/MCToffoli/27.qasm;0;###runtime:15.39######memory:84504######result:eq;;15.28
+finished;autoq;../circuits/eq/exact/MCToffoli/29.qasm;../circuits/eq/exact_opt/MCToffoli/29.qasm;0;###runtime:41.64######memory:197056######result:eq;;40.77
+finished;autoq;../circuits/eq/exact/MCToffoli/28.qasm;../circuits/eq/exact_opt/MCToffoli/28.qasm;0;###runtime:77.13######memory:2038284######result:eq;;72.48
+error;autoq;../circuits/eq/exact/MCToffoli/31.qasm;../circuits/eq/exact_opt/MCToffoli/31.qasm;real 36.49###user 28.53###sys 7.84
+error;autoq;../circuits/eq/exact/MCToffoli/32.qasm;../circuits/eq/exact_opt/MCToffoli/32.qasm;real 42.29###user 30.27###sys 11.90
+finished;autoq;../circuits/eq/exact/MCToffoli/25.qasm;../circuits/eq/exact_opt/MCToffoli/25.qasm;0;###runtime:149.27######memory:423328######result:eq;;141.78
+error;autoq;../circuits/eq/exact/MCToffoli/33.qasm;../circuits/eq/exact_opt/MCToffoli/33.qasm;real 63.98###user 52.90###sys 10.98
+error;autoq;../circuits/eq/exact/MCToffoli/34.qasm;../circuits/eq/exact_opt/MCToffoli/34.qasm;real 54.22###user 41.63###sys 12.45
+error;autoq;../circuits/eq/exact/MCToffoli/35.qasm;../circuits/eq/exact_opt/MCToffoli/35.qasm;real 66.64###user 54.95###sys 11.57
+error;autoq;../circuits/eq/exact/MCToffoli/36.qasm;../circuits/eq/exact_opt/MCToffoli/36.qasm;real 68.29###user 56.75###sys 11.43
+error;autoq;../circuits/eq/exact/MCToffoli/38.qasm;../circuits/eq/exact_opt/MCToffoli/38.qasm;real 36.96###user 29.59###sys 7.27
+error;autoq;../circuits/eq/exact/MCToffoli/37.qasm;../circuits/eq/exact_opt/MCToffoli/37.qasm;real 71.01###user 61.13###sys 9.44
+error;autoq;../circuits/eq/exact/MCToffoli/40.qasm;../circuits/eq/exact_opt/MCToffoli/40.qasm;real 35.43###user 28.20###sys 7.11
+error;autoq;../circuits/eq/exact/MCToffoli/39.qasm;../circuits/eq/exact_opt/MCToffoli/39.qasm;real 83.01###user 71.95###sys 10.94
+error;autoq;../circuits/eq/exact/MCToffoli/42.qasm;../circuits/eq/exact_opt/MCToffoli/42.qasm;real 33.96###user 26.64###sys 7.19
+timeout;autoq;../circuits/eq/exact/MCToffoli/30.qasm;../circuits/eq/exact_opt/MCToffoli/30.qasm
+error;autoq;../circuits/eq/exact/MCToffoli/41.qasm;../circuits/eq/exact_opt/MCToffoli/41.qasm;real 80.66###user 70.09###sys 10.45
+error;autoq;../circuits/eq/exact/MCToffoli/43.qasm;../circuits/eq/exact_opt/MCToffoli/43.qasm;real 38.62###user 31.52###sys 6.99
+error;autoq;../circuits/eq/exact/MCToffoli/44.qasm;../circuits/eq/exact_opt/MCToffoli/44.qasm;real 36.90###user 30.72###sys 6.04
+error;autoq;../circuits/eq/exact/MCToffoli/45.qasm;../circuits/eq/exact_opt/MCToffoli/45.qasm;real 33.57###user 27.89###sys 5.56
+error;autoq;../circuits/eq/exact/MCToffoli/46.qasm;../circuits/eq/exact_opt/MCToffoli/46.qasm;real 42.39###user 35.99###sys 6.24
+error;autoq;../circuits/eq/exact/MCToffoli/47.qasm;../circuits/eq/exact_opt/MCToffoli/47.qasm;real 36.47###user 31.28###sys 5.07
+error;autoq;../circuits/eq/exact/MCToffoli/51.qasm;../circuits/eq/exact_opt/MCToffoli/51.qasm;real 39.09###user 32.66###sys 6.32
+error;autoq;../circuits/eq/exact/MCToffoli/48.qasm;../circuits/eq/exact_opt/MCToffoli/48.qasm;real 65.62###user 58.20###sys 7.29
+error;autoq;../circuits/eq/exact/MCToffoli/49.qasm;../circuits/eq/exact_opt/MCToffoli/49.qasm;real 83.34###user 72.81###sys 10.44
+error;autoq;../circuits/eq/exact/MCToffoli/50.qasm;../circuits/eq/exact_opt/MCToffoli/50.qasm;real 63.00###user 53.27###sys 9.63
+error;autoq;../circuits/eq/exact/MCToffoli/52.qasm;../circuits/eq/exact_opt/MCToffoli/52.qasm;real 41.45###user 37.10###sys 4.25
+error;autoq;../circuits/eq/exact/MCToffoli/55.qasm;../circuits/eq/exact_opt/MCToffoli/55.qasm;real 42.53###user 34.31###sys 8.05
+error;autoq;../circuits/eq/exact/MCToffoli/56.qasm;../circuits/eq/exact_opt/MCToffoli/56.qasm;real 45.77###user 36.88###sys 8.75
+error;autoq;../circuits/eq/exact/MCToffoli/54.qasm;../circuits/eq/exact_opt/MCToffoli/54.qasm;real 65.99###user 53.25###sys 12.60
+error;autoq;../circuits/eq/exact/MCToffoli/53.qasm;../circuits/eq/exact_opt/MCToffoli/53.qasm;real 87.79###user 76.07###sys 11.61
+error;autoq;../circuits/eq/exact/MCToffoli/59.qasm;../circuits/eq/exact_opt/MCToffoli/59.qasm;real 29.87###user 24.04###sys 5.71
+error;autoq;../circuits/eq/exact/MCToffoli/58.qasm;../circuits/eq/exact_opt/MCToffoli/58.qasm;real 46.04###user 37.24###sys 8.69
+error;autoq;../circuits/eq/exact/MCToffoli/57.qasm;../circuits/eq/exact_opt/MCToffoli/57.qasm;real 96.32###user 76.69###sys 19.27
+error;autoq;../circuits/eq/exact/MCToffoli/60.qasm;../circuits/eq/exact_opt/MCToffoli/60.qasm;real 75.57###user 64.16###sys 11.27
+error;autoq;../circuits/eq/exact/MCToffoli/61.qasm;../circuits/eq/exact_opt/MCToffoli/61.qasm;real 91.53###user 82.68###sys 8.73
+error;autoq;../circuits/eq/exact/MCToffoli/62.qasm;../circuits/eq/exact_opt/MCToffoli/62.qasm;real 81.18###user 67.30###sys 13.77
+error;autoq;../circuits/eq/exact/MCToffoli/64.qasm;../circuits/eq/exact_opt/MCToffoli/64.qasm;real 79.56###user 70.43###sys 9.00
+error;autoq;../circuits/eq/exact/MCToffoli/63.qasm;../circuits/eq/exact_opt/MCToffoli/63.qasm;real 112.24###user 100.01###sys 11.89
+error;autoq;../circuits/eq/exact/MCToffoli/66.qasm;../circuits/eq/exact_opt/MCToffoli/66.qasm;real 61.77###user 51.96###sys 9.67
+error;autoq;../circuits/eq/exact/MCToffoli/65.qasm;../circuits/eq/exact_opt/MCToffoli/65.qasm;real 106.84###user 95.43###sys 11.27
+error;autoq;../circuits/eq/exact/MCToffoli/70.qasm;../circuits/eq/exact_opt/MCToffoli/70.qasm;real 39.34###user 33.08###sys 6.13
+error;autoq;../circuits/eq/exact/MCToffoli/67.qasm;../circuits/eq/exact_opt/MCToffoli/67.qasm;real 128.78###user 115.37###sys 13.30
+error;autoq;../circuits/eq/exact/MCToffoli/71.qasm;../circuits/eq/exact_opt/MCToffoli/71.qasm;real 47.75###user 40.95###sys 6.64
+error;autoq;../circuits/eq/exact/MCToffoli/72.qasm;../circuits/eq/exact_opt/MCToffoli/72.qasm;real 37.93###user 31.61###sys 6.21
+error;autoq;../circuits/eq/exact/MCToffoli/69.qasm;../circuits/eq/exact_opt/MCToffoli/69.qasm;real 139.20###user 125.68###sys 13.39
+error;autoq;../circuits/eq/exact/MCToffoli/68.qasm;../circuits/eq/exact_opt/MCToffoli/68.qasm;real 173.84###user 159.44###sys 14.01
+error;autoq;../circuits/eq/exact/MCToffoli/73.qasm;../circuits/eq/exact_opt/MCToffoli/73.qasm;real 63.63###user 52.72###sys 10.73
+error;autoq;../circuits/eq/exact/MCToffoli/74.qasm;../circuits/eq/exact_opt/MCToffoli/74.qasm;real 92.43###user 83.02###sys 9.30
+error;autoq;../circuits/eq/exact/MCToffoli/75.qasm;../circuits/eq/exact_opt/MCToffoli/75.qasm;real 106.47###user 95.25###sys 11.00
+error;autoq;../circuits/eq/exact/MCToffoli/76.qasm;../circuits/eq/exact_opt/MCToffoli/76.qasm;real 75.72###user 62.77###sys 12.82
+error;autoq;../circuits/eq/exact/MCToffoli/78.qasm;../circuits/eq/exact_opt/MCToffoli/78.qasm;real 42.89###user 36.94###sys 5.84
+error;autoq;../circuits/eq/exact/MCToffoli/77.qasm;../circuits/eq/exact_opt/MCToffoli/77.qasm;real 84.10###user 72.01###sys 11.92
+finished;autoq;../circuits/eq/exact/MOGrover/03.qasm;../circuits/eq/exact_opt/MOGrover/03.qasm;0;###runtime:81.15######memory:1276552######result:eq;;80.23
+timeout;autoq;../circuits/eq/exact/MOGrover/04.qasm;../circuits/eq/exact_opt/MOGrover/04.qasm
+timeout;autoq;../circuits/eq/exact/MOGrover/05.qasm;../circuits/eq/exact_opt/MOGrover/05.qasm
+timeout;autoq;../circuits/eq/exact/MOGrover/06.qasm;../circuits/eq/exact_opt/MOGrover/06.qasm
+error;autoq;../circuits/eq/exact/MOGrover/07.qasm;../circuits/eq/exact_opt/MOGrover/07.qasm;real 269.54###user 261.23###sys 8.16
+finished;autoq;../circuits/eq/exact/Random/03.qasm;../circuits/eq/exact_opt/Random/03.qasm;0;###runtime:0.05######memory:27064######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/Random/04.qasm;../circuits/eq/exact_opt/Random/04.qasm;0;###runtime:0.08######memory:26524######result:eq;;0.08
+error;autoq;../circuits/eq/exact/MOGrover/08.qasm;../circuits/eq/exact_opt/MOGrover/08.qasm;real 169.66###user 161.90###sys 7.54
+finished;autoq;../circuits/eq/exact/Random/05.qasm;../circuits/eq/exact_opt/Random/05.qasm;0;###runtime:125.47######memory:26208######result:eq;;125.45
+finished;autoq;../circuits/eq/exact/Random/07.qasm;../circuits/eq/exact_opt/Random/07.qasm;0;###runtime:13.71######memory:147520######result:eq;;13.62
+error;autoq;../circuits/eq/exact/MOGrover/10.qasm;../circuits/eq/exact_opt/MOGrover/10.qasm;real 179.91###user 168.62###sys 11.17
+error;autoq;../circuits/eq/exact/MOGrover/09.qasm;../circuits/eq/exact_opt/MOGrover/09.qasm;real 247.25###user 237.65###sys 9.46
+finished;autoq;../circuits/eq/exact/Random/06.qasm;../circuits/eq/exact_opt/Random/06.qasm;0;###runtime:152.56######memory:37876######result:eq;;152.44
+timeout;autoq;../circuits/eq/exact/Random/08.qasm;../circuits/eq/exact_opt/Random/08.qasm
+timeout;autoq;../circuits/eq/exact/Random/09.qasm;../circuits/eq/exact_opt/Random/09.qasm
+timeout;autoq;../circuits/eq/exact/Random/10.qasm;../circuits/eq/exact_opt/Random/10.qasm
+timeout;autoq;../circuits/eq/exact/Random/11.qasm;../circuits/eq/exact_opt/Random/11.qasm
+error;autoq;../circuits/eq/exact/Random/15.qasm;../circuits/eq/exact_opt/Random/15.qasm;real 97.72###user 90.56###sys 7.02
+error;autoq;../circuits/eq/exact/Random/12.qasm;../circuits/eq/exact_opt/Random/12.qasm;real 286.53###user 275.69###sys 10.68
+timeout;autoq;../circuits/eq/exact/Random/13.qasm;../circuits/eq/exact_opt/Random/13.qasm
+error;autoq;../circuits/eq/exact/Random/18.qasm;../circuits/eq/exact_opt/Random/18.qasm;real 20.74###user 14.34###sys 6.25
+error;autoq;../circuits/eq/exact/Random/17.qasm;../circuits/eq/exact_opt/Random/17.qasm;real 70.80###user 64.74###sys 5.86
+timeout;autoq;../circuits/eq/exact/Random/14.qasm;../circuits/eq/exact_opt/Random/14.qasm
+error;autoq;../circuits/eq/exact/Random/21.qasm;../circuits/eq/exact_opt/Random/21.qasm;real 19.30###user 15.04###sys 4.15
+error;autoq;../circuits/eq/exact/Random/20.qasm;../circuits/eq/exact_opt/Random/20.qasm;real 66.25###user 61.99###sys 3.75
+error;autoq;../circuits/eq/exact/Random/16.qasm;../circuits/eq/exact_opt/Random/16.qasm;real 195.09###user 186.92###sys 8.07
+error;autoq;../circuits/eq/exact/Random/24.qasm;../circuits/eq/exact_opt/Random/24.qasm;real 14.69###user 14.14###sys 0.45
+error;autoq;../circuits/eq/exact/Random/23.qasm;../circuits/eq/exact_opt/Random/23.qasm;real 38.16###user 29.18###sys 8.82
+error;autoq;../circuits/eq/exact/Random/25.qasm;../circuits/eq/exact_opt/Random/25.qasm;real 27.92###user 22.50###sys 5.33
+error;autoq;../circuits/eq/exact/Random/22.qasm;../circuits/eq/exact_opt/Random/22.qasm;real 75.09###user 67.37###sys 7.63
+error;autoq;../circuits/eq/exact/Random/28.qasm;../circuits/eq/exact_opt/Random/28.qasm;real 25.67###user 22.56###sys 3.01
+error;autoq;../circuits/eq/exact/Random/27.qasm;../circuits/eq/exact_opt/Random/27.qasm;real 58.26###user 49.47###sys 8.68
+error;autoq;../circuits/eq/exact/Random/29.qasm;../circuits/eq/exact_opt/Random/29.qasm;real 35.15###user 31.18###sys 3.84
+error;autoq;../circuits/eq/exact/Random/26.qasm;../circuits/eq/exact_opt/Random/26.qasm;real 85.39###user 77.49###sys 7.61
+error;autoq;../circuits/eq/exact/Random/32.qasm;../circuits/eq/exact_opt/Random/32.qasm;real 14.26###user 9.83###sys 4.02
+error;autoq;../circuits/eq/exact/Random/31.qasm;../circuits/eq/exact_opt/Random/31.qasm;real 25.37###user 22.90###sys 2.38
+error;autoq;../circuits/eq/exact/Random/33.qasm;../circuits/eq/exact_opt/Random/33.qasm;real 7.68###user 7.28###sys 0.23
+error;autoq;../circuits/eq/exact/Random/34.qasm;../circuits/eq/exact_opt/Random/34.qasm;real 11.84###user 10.75###sys 1.00
+error;autoq;../circuits/eq/exact/Random/35.qasm;../circuits/eq/exact_opt/Random/35.qasm;real 20.20###user 15.48###sys 4.61
+error;autoq;../circuits/eq/exact/Random/37.qasm;../circuits/eq/exact_opt/Random/37.qasm;real 19.84###user 13.56###sys 6.17
+error;autoq;../circuits/eq/exact/Random/38.qasm;../circuits/eq/exact_opt/Random/38.qasm;real 13.96###user 6.89###sys 6.88
+error;autoq;../circuits/eq/exact/Random/36.qasm;../circuits/eq/exact_opt/Random/36.qasm;real 49.64###user 45.34###sys 4.20
+error;autoq;../circuits/eq/exact/Random/30.qasm;../circuits/eq/exact_opt/Random/30.qasm;real 110.26###user 99.87###sys 10.29
+timeout;autoq;../circuits/eq/exact/Random/19.qasm;../circuits/eq/exact_opt/Random/19.qasm
+error;autoq;../circuits/eq/exact/Random/39.qasm;../circuits/eq/exact_opt/Random/39.qasm;real 24.25###user 16.91###sys 6.93
+error;autoq;../circuits/eq/exact/Random/42.qasm;../circuits/eq/exact_opt/Random/42.qasm;real 14.96###user 10.71###sys 4.16
+error;autoq;../circuits/eq/exact/Random/40.qasm;../circuits/eq/exact_opt/Random/40.qasm;real 43.84###user 37.93###sys 5.79
+error;autoq;../circuits/eq/exact/Random/41.qasm;../circuits/eq/exact_opt/Random/41.qasm;real 30.45###user 28.46###sys 1.87
+error;autoq;../circuits/eq/exact/Random/43.qasm;../circuits/eq/exact_opt/Random/43.qasm;real 37.95###user 35.62###sys 2.23
+error;autoq;../circuits/eq/exact/Random/44.qasm;../circuits/eq/exact_opt/Random/44.qasm;real 35.31###user 33.45###sys 1.75
+error;autoq;../circuits/eq/exact/Random/45.qasm;../circuits/eq/exact_opt/Random/45.qasm;real 31.28###user 26.52###sys 4.61
+error;autoq;../circuits/eq/exact/Random/49.qasm;../circuits/eq/exact_opt/Random/49.qasm;real 27.85###user 16.31###sys 11.44
+error;autoq;../circuits/eq/exact/Random/47.qasm;../circuits/eq/exact_opt/Random/47.qasm;real 43.82###user 40.84###sys 2.89
+error;autoq;../circuits/eq/exact/Random/48.qasm;../circuits/eq/exact_opt/Random/48.qasm;real 38.59###user 33.63###sys 4.86
+error;autoq;../circuits/eq/exact/Random/46.qasm;../circuits/eq/exact_opt/Random/46.qasm;real 78.22###user 70.75###sys 7.37
+error;autoq;../circuits/eq/exact/Random/51.qasm;../circuits/eq/exact_opt/Random/51.qasm;real 24.34###user 19.75###sys 4.49
+error;autoq;../circuits/eq/exact/Random/54.qasm;../circuits/eq/exact_opt/Random/54.qasm;real 29.39###user 27.13###sys 2.16
+error;autoq;../circuits/eq/exact/Random/50.qasm;../circuits/eq/exact_opt/Random/50.qasm;real 56.31###user 52.78###sys 3.43
+error;autoq;../circuits/eq/exact/Random/53.qasm;../circuits/eq/exact_opt/Random/53.qasm;real 38.78###user 35.81###sys 2.86
+error;autoq;../circuits/eq/exact/Random/55.qasm;../circuits/eq/exact_opt/Random/55.qasm;real 8.29###user 7.58###sys 0.61
+error;autoq;../circuits/eq/exact/Random/57.qasm;../circuits/eq/exact_opt/Random/57.qasm;real 20.31###user 16.51###sys 3.67
+error;autoq;../circuits/eq/exact/Random/59.qasm;../circuits/eq/exact_opt/Random/59.qasm;real 11.80###user 10.25###sys 1.43
+error;autoq;../circuits/eq/exact/Random/58.qasm;../circuits/eq/exact_opt/Random/58.qasm;real 26.73###user 19.04###sys 7.58
+error;autoq;../circuits/eq/exact/Random/56.qasm;../circuits/eq/exact_opt/Random/56.qasm;real 54.68###user 45.12###sys 9.46
+error;autoq;../circuits/eq/exact/Random/60.qasm;../circuits/eq/exact_opt/Random/60.qasm;real 33.02###user 30.67###sys 2.24
+error;autoq;../circuits/eq/exact/Random/61.qasm;../circuits/eq/exact_opt/Random/61.qasm;real 33.22###user 23.04###sys 10.08
+error;autoq;../circuits/eq/exact/Random/52.qasm;../circuits/eq/exact_opt/Random/52.qasm;real 125.94###user 123.05###sys 2.78
+error;autoq;../circuits/eq/exact/Random/64.qasm;../circuits/eq/exact_opt/Random/64.qasm;real 20.38###user 12.42###sys 7.86
+error;autoq;../circuits/eq/exact/Random/65.qasm;../circuits/eq/exact_opt/Random/65.qasm;real 18.16###user 12.66###sys 5.40
+error;autoq;../circuits/eq/exact/Random/63.qasm;../circuits/eq/exact_opt/Random/63.qasm;real 30.17###user 26.08###sys 3.99
+error;autoq;../circuits/eq/exact/Random/66.qasm;../circuits/eq/exact_opt/Random/66.qasm;real 13.55###user 8.46###sys 5.00
+error;autoq;../circuits/eq/exact/Random/69.qasm;../circuits/eq/exact_opt/Random/69.qasm;real 25.59###user 21.36###sys 4.12
+error;autoq;../circuits/eq/exact/Random/67.qasm;../circuits/eq/exact_opt/Random/67.qasm;real 48.01###user 45.08###sys 2.83
+error;autoq;../circuits/eq/exact/Random/71.qasm;../circuits/eq/exact_opt/Random/71.qasm;real 7.36###user 4.33###sys 2.93
+error;autoq;../circuits/eq/exact/Random/68.qasm;../circuits/eq/exact_opt/Random/68.qasm;real 49.92###user 49.02###sys 0.81
+error;autoq;../circuits/eq/exact/Random/62.qasm;../circuits/eq/exact_opt/Random/62.qasm;real 95.11###user 85.28###sys 9.71
+error;autoq;../circuits/eq/exact/Random/70.qasm;../circuits/eq/exact_opt/Random/70.qasm;real 25.56###user 22.49###sys 2.99
+error;autoq;../circuits/eq/exact/Random/73.qasm;../circuits/eq/exact_opt/Random/73.qasm;real 18.58###user 12.55###sys 5.93
+error;autoq;../circuits/eq/exact/Random/75.qasm;../circuits/eq/exact_opt/Random/75.qasm;real 24.05###user 19.32###sys 4.63
+error;autoq;../circuits/eq/exact/Random/76.qasm;../circuits/eq/exact_opt/Random/76.qasm;real 12.36###user 11.72###sys 0.54
+error;autoq;../circuits/eq/exact/Random/74.qasm;../circuits/eq/exact_opt/Random/74.qasm;real 37.32###user 33.95###sys 3.27
+error;autoq;../circuits/eq/exact/Random/72.qasm;../circuits/eq/exact_opt/Random/72.qasm;real 50.96###user 40.86###sys 9.96
+error;autoq;../circuits/eq/exact/Random/78.qasm;../circuits/eq/exact_opt/Random/78.qasm;real 21.96###user 21.05###sys 0.82
+error;autoq;../circuits/eq/exact/Random/77.qasm;../circuits/eq/exact_opt/Random/77.qasm;real 47.73###user 37.74###sys 9.87
+error;autoq;../circuits/eq/exact/Random/81.qasm;../circuits/eq/exact_opt/Random/81.qasm;real 29.29###user 22.39###sys 6.78
+error;autoq;../circuits/eq/exact/Random/80.qasm;../circuits/eq/exact_opt/Random/80.qasm;real 43.23###user 37.81###sys 5.29
+error;autoq;../circuits/eq/exact/Random/83.qasm;../circuits/eq/exact_opt/Random/83.qasm;real 15.06###user 13.90###sys 0.98
+error;autoq;../circuits/eq/exact/Random/84.qasm;../circuits/eq/exact_opt/Random/84.qasm;real 7.99###user 7.38###sys 0.52
+error;autoq;../circuits/eq/exact/Random/79.qasm;../circuits/eq/exact_opt/Random/79.qasm;real 68.98###user 62.31###sys 6.57
+error;autoq;../circuits/eq/exact/Random/82.qasm;../circuits/eq/exact_opt/Random/82.qasm;real 31.31###user 25.55###sys 5.67
+error;autoq;../circuits/eq/exact/Random/85.qasm;../circuits/eq/exact_opt/Random/85.qasm;real 13.51###user 12.16###sys 1.22
+error;autoq;../circuits/eq/exact/Random/87.qasm;../circuits/eq/exact_opt/Random/87.qasm;real 25.64###user 21.96###sys 3.57
+error;autoq;../circuits/eq/exact/Random/88.qasm;../circuits/eq/exact_opt/Random/88.qasm;real 38.15###user 28.67###sys 9.38
+error;autoq;../circuits/eq/exact/Random/90.qasm;../circuits/eq/exact_opt/Random/90.qasm;real 17.80###user 15.77###sys 1.91
+error;autoq;../circuits/eq/exact/Random/86.qasm;../circuits/eq/exact_opt/Random/86.qasm;real 58.85###user 50.18###sys 8.56
+error;autoq;../circuits/eq/exact/Random/89.qasm;../circuits/eq/exact_opt/Random/89.qasm;real 51.53###user 43.86###sys 7.57
+error;autoq;../circuits/eq/exact/Random/94.qasm;../circuits/eq/exact_opt/Random/94.qasm;real 27.72###user 24.27###sys 3.33
+error;autoq;../circuits/eq/exact/Random/92.qasm;../circuits/eq/exact_opt/Random/92.qasm;real 47.27###user 39.28###sys 7.88
+error;autoq;../circuits/eq/exact/Random/91.qasm;../circuits/eq/exact_opt/Random/91.qasm;real 59.06###user 50.51###sys 8.43
+error;autoq;../circuits/eq/exact/Random/96.qasm;../circuits/eq/exact_opt/Random/96.qasm;real 23.79###user 16.43###sys 7.22
+error;autoq;../circuits/eq/exact/Random/93.qasm;../circuits/eq/exact_opt/Random/93.qasm;real 68.31###user 62.68###sys 5.51
+error;autoq;../circuits/eq/exact/Random/97.qasm;../circuits/eq/exact_opt/Random/97.qasm;real 33.52###user 29.59###sys 3.81
+finished;autoq;../circuits/eq/exact/RevLib/0410184_169.qasm;../circuits/eq/exact_opt/RevLib/0410184_169.qasm;0;###runtime:1.29######memory:18412######result:eq;;1.29
+finished;autoq;../circuits/eq/exact/RevLib/4gt11_82.qasm;../circuits/eq/exact_opt/RevLib/4gt11_82.qasm;0;###runtime:0.01######memory:8436######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/RevLib/4gt11_83.qasm;../circuits/eq/exact_opt/RevLib/4gt11_83.qasm;0;###runtime:0.02######memory:8612######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/RevLib/4gt11_84.qasm;../circuits/eq/exact_opt/RevLib/4gt11_84.qasm;0;###runtime:0.01######memory:8392######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/4gt11-v1_85.qasm;../circuits/eq/exact_opt/RevLib/4gt11-v1_85.qasm;0;###runtime:0.01######memory:8296######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/RevLib/4mod5-bdd_287.qasm;../circuits/eq/exact_opt/RevLib/4mod5-bdd_287.qasm;0;###runtime:0.07######memory:9516######result:eq;;0.08
+error;autoq;../circuits/eq/exact/Random/95.qasm;../circuits/eq/exact_opt/Random/95.qasm;real 51.25###user 42.52###sys 8.62
+error;autoq;../circuits/eq/exact/Random/98.qasm;../circuits/eq/exact_opt/Random/98.qasm;real 18.61###user 16.28###sys 2.22
+error;autoq;../circuits/eq/exact/Random/99.qasm;../circuits/eq/exact_opt/Random/99.qasm;real 19.32###user 15.04###sys 4.19
+finished;autoq;../circuits/eq/exact/RevLib/add8_172.qasm;../circuits/eq/exact_opt/RevLib/add8_172.qasm;0;###runtime:51.39######memory:409412######result:eq;;49.3
+finished;autoq;../circuits/eq/exact/RevLib/alu-bdd_288.qasm;../circuits/eq/exact_opt/RevLib/alu-bdd_288.qasm;0;###runtime:0.14######memory:10008######result:eq;;0.15
+finished;autoq;../circuits/eq/exact/RevLib/alu-v0_27.qasm;../circuits/eq/exact_opt/RevLib/alu-v0_27.qasm;0;###runtime:0.03######memory:8688######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/RevLib/alu-v1_28.qasm;../circuits/eq/exact_opt/RevLib/alu-v1_28.qasm;0;###runtime:0.03######memory:8776######result:eq;;0.05
+finished;autoq;../circuits/eq/exact/RevLib/alu-v1_29.qasm;../circuits/eq/exact_opt/RevLib/alu-v1_29.qasm;0;###runtime:0.03######memory:8828######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/RevLib/alu-v2_33.qasm;../circuits/eq/exact_opt/RevLib/alu-v2_33.qasm;0;###runtime:0.03######memory:8892######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/RevLib/alu-v3_34.qasm;../circuits/eq/exact_opt/RevLib/alu-v3_34.qasm;0;###runtime:0.03######memory:8624######result:eq;;0.04
+finished;autoq;../circuits/eq/exact/RevLib/alu-v3_35.qasm;../circuits/eq/exact_opt/RevLib/alu-v3_35.qasm;0;###runtime:0.03######memory:8728######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/RevLib/alu-v4_37.qasm;../circuits/eq/exact_opt/RevLib/alu-v4_37.qasm;0;###runtime:0.03######memory:8640######result:eq;;0.03
+error;autoq;../circuits/eq/exact/RevLib/add32_183.qasm;../circuits/eq/exact_opt/RevLib/add32_183.qasm;real 69.08###user 61.71###sys 6.85
+finished;autoq;../circuits/eq/exact/RevLib/cnt3-5_179.qasm;../circuits/eq/exact_opt/RevLib/cnt3-5_179.qasm;0;###runtime:12.11######memory:110212######result:eq;;11.94
+error;autoq;../circuits/eq/exact/RevLib/bw_291.qasm;../circuits/eq/exact_opt/RevLib/bw_291.qasm;real 70.64###user 63.84###sys 6.63
+finished;autoq;../circuits/eq/exact/RevLib/decod24-bdd_294.qasm;../circuits/eq/exact_opt/RevLib/decod24-bdd_294.qasm;0;###runtime:0.08######memory:9044######result:eq;;0.08
+finished;autoq;../circuits/eq/exact/RevLib/decod24-enable_125.qasm;../circuits/eq/exact_opt/RevLib/decod24-enable_125.qasm;0;###runtime:0.07######memory:8860######result:eq;;0.07
+finished;autoq;../circuits/eq/exact/RevLib/decod24-v0_38.qasm;../circuits/eq/exact_opt/RevLib/decod24-v0_38.qasm;0;###runtime:0.02######memory:8372######result:eq;;0.03
+finished;autoq;../circuits/eq/exact/RevLib/decod24-v2_43.qasm;../circuits/eq/exact_opt/RevLib/decod24-v2_43.qasm;0;###runtime:0.02######memory:8428######result:eq;;0.02
+error;autoq;../circuits/eq/exact/RevLib/add64_184.qasm;../circuits/eq/exact_opt/RevLib/add64_184.qasm;real 133.45###user 119.54###sys 13.81
+finished;autoq;../circuits/eq/exact/RevLib/ex-1_166.qasm;../circuits/eq/exact_opt/RevLib/ex-1_166.qasm;0;###runtime:0.00######memory:8084######result:eq;;0.01
+finished;autoq;../circuits/eq/exact/RevLib/ex1_226.qasm;../circuits/eq/exact_opt/RevLib/ex1_226.qasm;0;###runtime:0.02######memory:8624######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/fredkin_6.qasm;../circuits/eq/exact_opt/RevLib/fredkin_6.qasm;0;###runtime:0.00######memory:8064######result:eq;;0.01
+error;autoq;../circuits/eq/exact/RevLib/add16_174.qasm;../circuits/eq/exact_opt/RevLib/add16_174.qasm;real 257.10###user 244.93###sys 12.02
+finished;autoq;../circuits/eq/exact/RevLib/ham3_102.qasm;../circuits/eq/exact_opt/RevLib/ham3_102.qasm;0;###runtime:0.02######memory:8300######result:eq;;0.01
+finished;autoq;../circuits/eq/exact/RevLib/ham7_106.qasm;../circuits/eq/exact_opt/RevLib/ham7_106.qasm;0;###runtime:0.73######memory:15872######result:eq;;0.73
+error;autoq;../circuits/eq/exact/RevLib/cycle10_293.qasm;../circuits/eq/exact_opt/RevLib/cycle10_293.qasm;real 289.44###user 262.51###sys 26.79
+error;autoq;../circuits/eq/exact/RevLib/ham7_299.qasm;../circuits/eq/exact_opt/RevLib/ham7_299.qasm;real 170.75###user 154.60###sys 16.03
+timeout;autoq;../circuits/eq/exact/RevLib/e64-bdd_295.qasm;../circuits/eq/exact_opt/RevLib/e64-bdd_295.qasm
+timeout;autoq;../circuits/eq/exact/RevLib/ham15_298.qasm;../circuits/eq/exact_opt/RevLib/ham15_298.qasm
+error;autoq;../circuits/eq/exact/RevLib/hwb7_302.qasm;../circuits/eq/exact_opt/RevLib/hwb7_302.qasm;real 22.36###user 19.04###sys 3.19
+finished;autoq;../circuits/eq/exact/RevLib/mini_alu_305.qasm;../circuits/eq/exact_opt/RevLib/mini_alu_305.qasm;0;###runtime:1.79######memory:17456######result:eq;;1.77
+error;autoq;../circuits/eq/exact/RevLib/hwb5_300.qasm;../circuits/eq/exact_opt/RevLib/hwb5_300.qasm;real 120.49###user 109.89###sys 10.45
+finished;autoq;../circuits/eq/exact/RevLib/mod5d2_70.qasm;../circuits/eq/exact_opt/RevLib/mod5d2_70.qasm;0;###runtime:0.04######memory:8728######result:eq;;0.05
+finished;autoq;../circuits/eq/exact/RevLib/mod5mils_71.qasm;../circuits/eq/exact_opt/RevLib/mod5mils_71.qasm;0;###runtime:0.01######memory:8176######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/one-two-three-v2_100.qasm;../circuits/eq/exact_opt/RevLib/one-two-three-v2_100.qasm;0;###runtime:0.07######memory:8564######result:eq;;0.08
+finished;autoq;../circuits/eq/exact/RevLib/one-two-three-v3_101.qasm;../circuits/eq/exact_opt/RevLib/one-two-three-v3_101.qasm;0;###runtime:0.07######memory:8836######result:eq;;0.08
+finished;autoq;../circuits/eq/exact/RevLib/parity_247.qasm;../circuits/eq/exact_opt/RevLib/parity_247.qasm;0;###runtime:0.13######memory:10344######result:eq;;0.13
+finished;autoq;../circuits/eq/exact/RevLib/peres_9.qasm;../circuits/eq/exact_opt/RevLib/peres_9.qasm;0;###runtime:0.00######memory:8200######result:eq;;0.01
+error;autoq;../circuits/eq/exact/RevLib/hwb6_301.qasm;../circuits/eq/exact_opt/RevLib/hwb6_301.qasm;real 68.66###user 63.48###sys 5.07
+error;autoq;../circuits/eq/exact/RevLib/plus127mod8192_308.qasm;../circuits/eq/exact_opt/RevLib/plus127mod8192_308.qasm;real 82.31###user 74.15###sys 8.05
+error;autoq;../circuits/eq/exact/RevLib/hwb8_303.qasm;../circuits/eq/exact_opt/RevLib/hwb8_303.qasm;real 219.81###user 212.29###sys 7.39
+finished;autoq;../circuits/eq/exact/RevLib/rd32_270.qasm;../circuits/eq/exact_opt/RevLib/rd32_270.qasm;0;###runtime:0.01######memory:8240######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/rd32_271.qasm;../circuits/eq/exact_opt/RevLib/rd32_271.qasm;0;###runtime:0.01######memory:8372######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/rd32_272.qasm;../circuits/eq/exact_opt/RevLib/rd32_272.qasm;0;###runtime:0.01######memory:8256######result:eq;;0.02
+finished;autoq;../circuits/eq/exact/RevLib/rd53_138.qasm;../circuits/eq/exact_opt/RevLib/rd53_138.qasm;0;###runtime:0.24######memory:10024######result:eq;;0.24
+finished;autoq;../circuits/eq/exact/RevLib/rd53_311.qasm;../circuits/eq/exact_opt/RevLib/rd53_311.qasm;0;###runtime:30.64######memory:379020######result:eq;;30.41
+finished;autoq;../circuits/eq/exact/RevLib/rd73_140.qasm;../circuits/eq/exact_opt/RevLib/rd73_140.qasm;0;###runtime:1.81######memory:18184######result:eq;;1.82
+timeout;autoq;../circuits/eq/exact/RevLib/mod5adder_306.qasm;../circuits/eq/exact_opt/RevLib/mod5adder_306.qasm
+finished;autoq;../circuits/eq/exact/RevLib/rd84_142.qasm;../circuits/eq/exact_opt/RevLib/rd84_142.qasm;0;###runtime:42.10######memory:198400######result:eq;;41.46
+timeout;autoq;../circuits/eq/exact/RevLib/plus63mod4096_309.qasm;../circuits/eq/exact_opt/RevLib/plus63mod4096_309.qasm
+finished;autoq;../circuits/eq/exact/RevLib/sym6_316.qasm;../circuits/eq/exact_opt/RevLib/sym6_316.qasm;0;###runtime:69.16######memory:1447976######result:eq;;68.03
+finished;autoq;../circuits/eq/exact/RevLib/sym9_146.qasm;../circuits/eq/exact_opt/RevLib/sym9_146.qasm;0;###runtime:4.22######memory:47228######result:eq;;4.15
+timeout;autoq;../circuits/eq/exact/RevLib/plus63mod8192_310.qasm;../circuits/eq/exact_opt/RevLib/plus63mod8192_310.qasm
+finished;autoq;../circuits/eq/exact/RevLib/sym9_192.qasm;../circuits/eq/exact_opt/RevLib/sym9_192.qasm;0;###runtime:4.29######memory:47488######result:eq;;4.2
+finished;autoq;../circuits/eq/exact/RevLib/sys6-v0_111.qasm;../circuits/eq/exact_opt/RevLib/sys6-v0_111.qasm;0;###runtime:1.27######memory:19992######result:eq;;1.25
+finished;autoq;../circuits/eq/exact/RevLib/xor5_254.qasm;../circuits/eq/exact_opt/RevLib/xor5_254.qasm;0;###runtime:0.02######memory:8664######result:eq;;0.03
+timeout;autoq;../circuits/eq/exact/RevLib/rd73_312.qasm;../circuits/eq/exact_opt/RevLib/rd73_312.qasm
+timeout;autoq;../circuits/eq/exact/RevLib/rd84_313.qasm;../circuits/eq/exact_opt/RevLib/rd84_313.qasm
+timeout;autoq;../circuits/eq/exact/RevLib/sym9_317.qasm;../circuits/eq/exact_opt/RevLib/sym9_317.qasm
