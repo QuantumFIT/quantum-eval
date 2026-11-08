@@ -1,4 +1,5 @@
 import pandas as pd
+import csv
 import json
 import numpy as np
 import mizani.formatters as mizani
@@ -30,13 +31,96 @@ def read_latest_result_file(bench, tool, timeout):
         return latest_file.read()
 
 
-def load_benches(benches, tools, timeout=120):
+def drop_first_input(raw_data):
+    """Removes the first input file from every row of a .tasks file.
+
+    Equivalence benchmarks have two input files per row (original;compared circuit).
+    pyco_proc expects one, so only the second (compared) circuit is kept as the name.
+    """
+    out = io.StringIO()
+    writer = csv.writer(out, delimiter=';', quotechar='"', doublequote=False,
+                        escapechar='\\', quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
+    reader = csv.reader(io.StringIO(raw_data), delimiter=';', quotechar='"',
+                        doublequote=False, escapechar='\\')
+    for row in reader:
+        if len(row) >= 4:  # status;tool;input1;input2;...
+            del row[2]
+        writer.writerow(row)
+    return out.getvalue()
+
+
+def load_tasks(paths, drop_first=False):
+    """Loads .tasks files directly, no folder or naming conventions needed.
+
+    Args:
+        paths (str or list): file paths and/or glob patterns, e.g. "../results/*/*.tasks"
+        drop_first (bool): True for equivalence results (two input files per row)
+
+    The benchmark is the file name up to "-to<timeout>-" (as named by run_*_bench.sh),
+    the tool is read from the rows. If a benchmark has several files for the same tool,
+    the newest (by name) is used.
+
+    Returns:
+        DataFrame in the same format as load_benches (one row per circuit/pair and benchmark).
+    """
+    import glob
+    import re
+    if isinstance(paths, str):
+        paths = [paths]
+    files = sorted({f for p in paths for f in (glob.glob(p) or [p])})
+
+    # (benchmark, tool) -> newest file
+    chosen = {}
+    for f in files:
+        name = os.path.basename(f)
+        m = re.match(r"(.+?)-to\d+-", name)
+        bench = m.group(1) if m else os.path.splitext(name)[0]
+        with open(f) as fd:
+            raw = fd.read()
+        if drop_first:
+            raw = drop_first_input(raw)
+        tools = {row[1] for row in csv.reader(io.StringIO(raw), delimiter=';', quotechar='"',
+                                              doublequote=False, escapechar='\\') if len(row) > 1}
+        for tool in tools:
+            if (bench, tool) not in chosen or name > os.path.basename(chosen[(bench, tool)][0]):
+                chosen[(bench, tool)] = (f, raw)
+
+    dfs = []
+    for bench in sorted({b for b, _ in chosen}):
+        input_data = "".join(raw if raw.endswith("\n") else raw + "\n"
+                             for (b, _), (_, raw) in sorted(chosen.items()) if b == bench)
+        buf = io.StringIO()
+        old_stdout = sys.stdout
+        try:
+            sys.stdout = buf
+            pyco_proc.proc_res(io.StringIO(input_data), Namespace(csv=True, html=False, text=False, tick=False))
+        finally:
+            sys.stdout = old_stdout
+        df = pd.read_csv(io.StringIO(buf.getvalue()), sep=";", dtype='unicode')
+        df["benchmark"] = bench
+        dfs.append(df)
+
+    df_all = pd.concat(dfs, ignore_index=True)
+    for tool in sorted({t for _, t in chosen}):
+        for metric in ["runtime", "memory"]:
+            col = f"{tool}-{metric}"
+            if col not in df_all.columns:
+                df_all[col] = float('inf') if metric == "runtime" else 0
+            df_all[col] = pd.to_numeric(df_all[col], errors='coerce').fillna(float('inf') if metric == "runtime" else 0).astype(float)
+    print("loaded:", ", ".join(f"{b}/{t} <- {os.path.relpath(f)}" for (b, t), (f, _) in sorted(chosen.items())))
+    return df_all
+
+
+def load_benches(benches, tools, timeout=120, drop_first=False):
+    """drop_first=True for equivalence benchmarks (two input files per row), see drop_first_input."""
     dfs = dict()
     for bench in benches:
         input_data = ""
         for tool in tools:
             assert tool != ""
             raw_data = read_latest_result_file(bench, tool, timeout)
+            if drop_first:
+                raw_data = drop_first_input(raw_data)
 
             # Skip lines that reference NL_ files
             filtered_lines = []
@@ -234,6 +318,9 @@ def scatter_plot(df, x_tool, y_tool, property="runtime", title=None, timeout=120
         clamp_domain[1] = timeout
         df.loc[df[x_col] > clamp_domain[1], x_col] = clamp_domain[1]
         df.loc[df[y_col] > clamp_domain[1], y_col] = clamp_domain[1]
+        # values below the axis (e.g. 0.0 s, which log10 cannot show) go on the lower edge
+        df.loc[df[x_col] < clamp_domain[0], x_col] = clamp_domain[0]
+        df.loc[df[y_col] < clamp_domain[0], y_col] = clamp_domain[0]
 
     # generate scatter plot
     scatter = p9.ggplot(df)
@@ -254,6 +341,63 @@ def scatter_plot(df, x_tool, y_tool, property="runtime", title=None, timeout=120
         scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose=False)
 
     return scatter
+
+def scatter_two_files(file_x, file_y, property="runtime", timeout=300, drop_first=True, file_name_to_save=None, **kwargs):
+    """Scatter plot of two .tasks files (one tool each, same benchmark), colored by circuit type.
+
+    The circuit type is the folder the circuit is in (e.g. RevLib, Feynman, qaoa).
+    Runtime is the tool's wall time measured by the wrapper (###runtime).
+    Runs without a correct eq/neq answer (timeout, error, unknown, wrong answer) are drawn
+    on the timeout edge; the expected answer is eq for *-opt benchmarks, neq otherwise.
+
+    Args:
+        file_x (str): .tasks file of the tool on the x-axis
+        file_y (str): .tasks file of the tool on the y-axis
+        property (str): "runtime" or "memory"
+        timeout (int): timeout of the runs (-s), used as the edge of the plot
+        drop_first (bool): True for equivalence results (two input files per row)
+        file_name_to_save (str, optional): save to file_name_to_save.pdf
+        kwargs: passed to scatter_plot (e.g. title, xname, yname, clamp_domain)
+    """
+    df = load_tasks([file_x, file_y], drop_first=drop_first)
+
+    # tool of each file (first file's tool on the x-axis)
+    def tool_of(f):
+        with open(f) as fd:
+            return next(csv.reader(fd, delimiter=';', quotechar='"', doublequote=False, escapechar='\\'))[1]
+    x_tool, y_tool = tool_of(file_x), tool_of(file_y)
+    if x_tool == y_tool:
+        raise ValueError(f"both files are from the same tool ({x_tool})")
+    for t in (x_tool, y_tool):
+        # a tool with only failed runs (e.g. unsupported gates) has no result/runtime columns
+        if f"{t}-result" not in df.columns:
+            df[f"{t}-result"] = "ERR"
+        if f"{t}-runtime.1" not in df.columns:
+            df[f"{t}-runtime.1"] = float("inf")
+
+    df["type"] = df["name"].apply(lambda p: os.path.basename(os.path.dirname(str(p))))
+    # expected answer from the benchmark name: *-opt pairs are equivalent, all others are not
+    expected = df["benchmark"].str.endswith("-opt").map({True: "eq", False: "neq"})
+    for t in (x_tool, y_tool):
+        if property == "runtime":
+            # wall time of the tool itself, measured by the wrapper (###runtime);
+            # pycobench's own column is user CPU time incl. wrapper overhead (conversions, python start)
+            df[f"{t}-runtime"] = pd.to_numeric(df[f"{t}-runtime.1"], errors="coerce")
+        result = df[f"{t}-result"]
+        unsolved = ~result.isin(["eq", "neq"])
+        wrong = ~unsolved & (result != expected)
+        if wrong.any():
+            print(f"{t}: {wrong.sum()} wrong answer(s), drawn as unsolved")
+        df.loc[unsolved | wrong, f"{t}-{property}"] = float("inf")
+
+    if property == "runtime":
+        kwargs.setdefault("clamp_domain", [0.01, timeout])
+    else:
+        timeout = kwargs.pop("max_value", 1e8)
+        kwargs.setdefault("clamp_domain", [1e3, timeout])
+    return scatter_plot(df, x_tool, y_tool, property=property, timeout=timeout,
+                        color_column="type", file_name_to_save=file_name_to_save, **kwargs)
+
 
 def cactus_plot(df, tools, timeout = 120, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False, file_name_to_save=None, num_of_x_ticks=5):
     """Returns cactus plot (sorted runtimes of each tool in tools). To print the result use result.figure.savefig("name_of_file.pdf", transparent=True).
