@@ -21,8 +21,24 @@ done
 # Clone repo
 clone_repo "$REPO" "$DIR"
 
-# Build AutoQ
+# Build ANTLR C++ runtime (static only)
+log "Building ANTLR $ANTLR_VERSION C++ runtime..."
+clone_repo "$ANTLR_REPO" "$ANTLR_DIR" "$ANTLR_VERSION"
+cmake -S "$ANTLR_DIR/runtime/Cpp" -B "$ANTLR_DIR/build" \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_INSTALL_PREFIX="$ANTLR_PREFIX" \
+    -DCMAKE_INSTALL_LIBDIR=lib \
+    -DANTLR_BUILD_SHARED=OFF \
+    -DANTLR_BUILD_STATIC=ON \
+    -DANTLR_BUILD_CPP_TESTS=OFF
+cmake --build "$ANTLR_DIR/build" -j"$(nproc)"
+cmake --install "$ANTLR_DIR/build"
+
+# Build AutoQ (same as `make release`, but linking our ANTLR runtime)
 cd "$DIR"
 log "Building AutoQ release..."
-make release
+rm -rf build
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_EXE_LINKER_FLAGS="-L$ANTLR_PREFIX/lib"
+cmake --build build -j"$(nproc)"
 log "AutoQ built"
